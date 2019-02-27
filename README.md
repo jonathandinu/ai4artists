@@ -81,7 +81,7 @@ Here are some examples/tutorials on creating generative, procedural, or algorith
 
 A non-exhaustive list of people doing interesting things at the intersection of art and ML
 
-* Meme Akten ([webite](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
+* Memo Akten ([webite](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
 * [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
 * [Hannah Davis](http://www.hannahishere.com/)
 * [Mario Klingemann](http://quasimondo.com/)
