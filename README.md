@@ -79,7 +79,7 @@ Here are some examples/tutorials on creating generative, procedural, or algorith
 
 ### People
 
-A non-exhaustive list of people doing interesting things at the intersection of art and ML
+A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
 * Memo Akten ([webite](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
 * [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
