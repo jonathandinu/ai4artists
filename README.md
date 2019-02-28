@@ -96,6 +96,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 * Memo Akten ([website](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
 * [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
+* [Tom White](https://drib.net/)
 * [Hannah Davis](http://www.hannahishere.com/)
 * [Mario Klingemann](http://quasimondo.com/)
 * [Robbie Barrat](https://robbiebarrat.github.io/)
