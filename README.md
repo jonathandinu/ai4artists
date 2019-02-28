@@ -23,18 +23,31 @@ Here is a list of some common creative coding libraries (not including machine l
 - [openFrameworks](http://openframeworks.cc/)
 - Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/))
 - Text ([spacy](https://spacy.io/), [natural](https://github.com/NaturalNode/natural), [Tracery](http://tracery.io/))
-- [Wekinator](http://www.wekinator.org/)
 
 *if you do not know where to start/what to use, I would recommend using processing.py (Processing in Python) or p5.js*
 
 
 ### Machine Learning Tools (for making art)
 
+* [Wekinator](http://www.wekinator.org/)
 * [Magenta](https://magenta.tensorflow.org/)
 * [Runway](https://runwayapp.ai/)
 * [Tensorflow.js](https://js.tensorflow.org/)
 * [ml5.js](https://ml5js.org/)
 * [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
+
+#### General purpose frameworks/libraries
+
+* [PyTorch](https://pytorch.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* [Caffe2](https://caffe2.ai/)
+* [Darknet](https://pjreddie.com/darknet/)
+* [dlib](http://dlib.net/)
+* [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) (with [C# interface](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp))
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [Unity ML-Agents](https://unity3d.com/machine-learning)
+* [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
 
 
 ### Google Colab Examples/Documentation
