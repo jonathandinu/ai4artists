@@ -89,6 +89,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 * [Mimi Onuoha](http://mimionuoha.com/)
 * [Gene Kogan](http://genekogan.com/)
 * [Allison Parrish](https://www.decontextualize.com/)
+* [Refik Anadol](http://refikanadol.com/)
 * [Tega Brain](http://tegabrain.com/)
 * [Kyle McDonald](http://kylemcdonald.net/)
 * [Mike Tyka](http://www.miketyka.com/)
