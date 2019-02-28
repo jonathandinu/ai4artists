@@ -116,6 +116,8 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 ### Places
 
 * [ITP](https://tisch.nyu.edu/itp)
+* [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
+* [Gray Area Foundation for the Arts](https://grayarea.org/)
 * [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
 * [Goldsmiths](https://www.gold.ac.uk/computing/)
 * [MIT Media Lab](https://www.media.mit.edu/)
