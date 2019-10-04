@@ -1,8 +1,8 @@
 ## Art and Machine Learning (with some new media thrown in)
 
-These are resources and tutorials for anyone interested in using machine learning for creative uses. Whether you are an artist looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications.
+These resources and tutorials are for anyone interested in using machine learning for creative uses. Whether you are an artist looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications.
 
-### Courses (loosely defined)
+# Courses (loosely defined)
 
 * [Machine Learning for Artists](https://ml4a.github.io/classes/)
 * ITP @ NYU: [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
@@ -13,21 +13,23 @@ These are resources and tutorials for anyone interested in using machine learnin
 * CMU: [New Media Installation: Art that Learns](https://artthatlearns.wordpress.com/syllabus/)
 * Coding Train: [Youtube Playlists](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50)
 
-### Creative Coding Tools
+
+# Creative Coding Tools
 
 Here is a list of some common creative coding libraries (not including machine learning specific libraries).
 
-- Processing ([Java](https://processing.org/), [p5.js](https://p5js.org/) and [processing.py](http://py.processing.org/))
-- HTML/Javascript ([canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) and [two.js](https://two.js.org/))
-- [WebGL](https://github.com/sjfricke/awesome-webgl) ([three.js](https://threejs.org/), [regl](http://regl.party/), [stack.g](http://stack.gl/)l, [Mathbox](https://github.com/unconed/mathbox))
-- [openFrameworks](http://openframeworks.cc/)
-- Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/))
-- Text ([spacy](https://spacy.io/), [natural](https://github.com/NaturalNode/natural), [Tracery](http://tracery.io/))
+- Processing ([Java](https://processing.org/), [p5.js](https://p5js.org/), and [processing.py](http://py.processing.org/))
+- HTML/Javascript ([canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) and [two.js](https://two.js.org/))
+- 3D/[WebGL](https://github.com/sjfricke/awesome-webgl) ([three.js](https://threejs.org/), [regl](http://regl.party/), [stack.g](http://stack.gl/)l, [Mathbox](https://github.com/unconed/mathbox))
+- Interactive & Installation ([openFrameworks](http://openframeworks.cc/) and [Cinder](https://libcinder.org/))
+- Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/))
+- Text ([spacy](https://spacy.io/), [natural](https://github.com/NaturalNode/natural), [Tracery](http://tracery.io/))
 
-*if you do not know where to start/what to use, I would recommend using processing.py (Processing in Python) or p5.js*
+{{% alert warning center %}}
+*Not sure where to start/what to use, try [p5.js](https://p5js.org/) or [processing.py](http://py.processing.org/) 🙌*
+{{% /alert %}}
 
-
-### Machine Learning Tools (for making art)
+# Machine Learning Tools (for making art)
 
 * [Wekinator](http://www.wekinator.org/)
 * [Magenta](https://magenta.tensorflow.org/)
@@ -36,12 +38,11 @@ Here is a list of some common creative coding libraries (not including machine l
 * [ml5.js](https://ml5js.org/)
 * [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
-#### General purpose frameworks/libraries
+## General purpose frameworks/libraries
 
 * [PyTorch](https://pytorch.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
-* [Caffe2](https://caffe2.ai/)
 * [Darknet](https://pjreddie.com/darknet/)
 * [dlib](http://dlib.net/)
 * [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) (with [C# interface](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp))
@@ -49,13 +50,12 @@ Here is a list of some common creative coding libraries (not including machine l
 * [Unity ML-Agents](https://unity3d.com/machine-learning)
 * [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
 
-
-### Google Colab Examples/Documentation
+# Google Colab Examples/Documentation
 
 - [Getting Started with Google Colab (and running your first network)](https://colab.research.google.com/drive/1TzaPS3jvRadN-URLbQ9nD1ZNoZktfNRy)
 - [pix2pix Walkthrough](https://drive.google.com/file/d/16UoYX16K_cuXjEdd29zm1ZEMwEE4OSPI/view?usp=sharing)
 
-#### Semi-official Google Contributed
+## Semi-official Google Contributed
 
 - [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 - [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
@@ -67,7 +67,7 @@ Here is a list of some common creative coding libraries (not including machine l
 - [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - [MusicVAE](https://colab.research.google.com/notebooks/magenta/music_vae/music_vae.ipynb)
 
-### Interactive ML Embedding Examples
+# Interactive ML Embedding Examples
 
 Here are some fun interactive embedding visualizations from Google's AI Experiments, hopefully they also give some intuition about high dimensional spaces and what embedding does to them:
 
@@ -77,20 +77,20 @@ Here are some fun interactive embedding visualizations from Google's AI Experime
 - [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
 - [Bird Sounds](https://experiments.withgoogle.com/ai/bird-sounds/view/)
 
-### Generative, Procedural, and Algorithmic Art Tutorials
+# Generative, Procedural, and Algorithmic Art Tutorials
 
 Here are some examples/tutorials on creating generative, procedural, or algorithmic art/designs using code.
 
 - [Making Generative Art with Simple Mathematics](http://www.hailpixel.com/articles/generative-art-simple-mathematics)
 - [https://medium.com/@zachlieberman/daily-sketches-in-2017-1b4234b0615d](https://medium.com/@zachlieberman/daily-sketches-in-2017-1b4234b0615d)
-- [Mike Bostock: Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) (with [Eyeo talk](https://vimeo.com/112319901))
+- [Mike Bostock: Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) (with [Eyeo talk](https://vimeo.com/112319901))
 - [Generative Examples in Processing](https://github.com/digitalcoleman/generativeExamples)
 - [Book of Shaders: Generative Designs](https://thebookofshaders.com/10/)
 - [Programming Design Systems](https://programmingdesignsystems.com/)
 - [Generative Music](https://teropa.info/loop/#/title)
 - [Procedural Content Generation in Games](http://pcgbook.com/)
 
-### People
+# People
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
@@ -112,16 +112,17 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 * [Molly Wright Steenson](http://www.girlwonder.com/)
 * [Ken Goldberg](https://goldberg.berkeley.edu/)
 * [Eric Paulos](http://www.paulos.net/index.html)
+* [Golan Levin](http://www.flong.com/)
 
 
-### Places
+# Places
 
-* [ITP](https://tisch.nyu.edu/itp)
 * [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
+* [ITP](https://tisch.nyu.edu/itp)
 * [Gray Area Foundation for the Arts](https://grayarea.org/)
 * [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
 * [Goldsmiths](https://www.gold.ac.uk/computing/)
-* [MIT Media Lab](https://www.media.mit.edu/)
+<!-- * [MIT Media Lab](https://www.media.mit.edu/) -->
 * [Google Artists and Machine Intelligence](https://ami.withgoogle.com/)
 * [Google Creative Lab](https://www.creativelab5.com/)
 * [The Lab at the Google Cultural Institute](https://www.google.com/culturalinstitute/thelab/)
