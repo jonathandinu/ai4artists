@@ -122,7 +122,6 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 * [Gray Area Foundation for the Arts](https://grayarea.org/)
 * [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
 * [Goldsmiths](https://www.gold.ac.uk/computing/)
-<!-- * [MIT Media Lab](https://www.media.mit.edu/) -->
 * [Google Artists and Machine Intelligence](https://ami.withgoogle.com/)
 * [Google Creative Lab](https://www.creativelab5.com/)
 * [The Lab at the Google Cultural Institute](https://www.google.com/culturalinstitute/thelab/)
