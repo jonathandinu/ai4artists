@@ -22,7 +22,7 @@ Here is a list of some common creative coding libraries (not including machine l
 - HTML/Javascript ([canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) and [two.js](https://two.js.org/))
 - 3D/[WebGL](https://github.com/sjfricke/awesome-webgl) ([three.js](https://threejs.org/), [regl](http://regl.party/), [stack.g](http://stack.gl/)l, [Mathbox](https://github.com/unconed/mathbox))
 - Interactive & Installation ([openFrameworks](http://openframeworks.cc/) and [Cinder](https://libcinder.org/))
-- Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/))
+- Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/), [Sonic Pi](https://sonic-pi.net/))
 - Text ([spacy](https://spacy.io/), [natural](https://github.com/NaturalNode/natural), [Tracery](http://tracery.io/))
 
 {{% alert warning center %}}
