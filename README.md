@@ -1,3 +1,5 @@
+> __This now has a permanent (and most up-to-date) home at [https://jonathanjonathanjonathan.com/writing/art-and-machine-learning/]__
+
 ## Art and Machine Learning (with some new media thrown in)
 
 These resources and tutorials are for anyone interested in using machine learning for creative uses. Whether you are an artist looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications.
