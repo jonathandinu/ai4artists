@@ -1,4 +1,4 @@
-> __This now has a permanent (and most up-to-date) home at [https://jonathanjonathanjonathan.com/writing/art-and-machine-learning/]__
+> __This now has a permanent (and most up-to-date) home at https://jonathanjonathanjonathan.com/writing/art-and-machine-learning/__
 
 ## Art and Machine Learning (with some new media thrown in)
 
