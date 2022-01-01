@@ -3,11 +3,48 @@
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 [![Twitch Status](https://img.shields.io/twitch/status/thedatawarehaus?style=flat-square)](https://www.twitch.tv/thedatawarehaus)
 
-## Art and Machine Learning (with some new media thrown in)
+> Part art, part AI.... all fun!
 
-These resources and tutorials are for anyone interested in using machine learning for creative uses. Whether you are an artist looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications.
+# Artificial Intelligence for Art and Design
 
-# Courses (loosely defined)
+This repo exists as part curriculum and part textbook for Jonathan's Art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/thedatawarehaus) series in the form of live lectures/workshops. Recordings of the streams will be edited and augmented (with better graphics) and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed. 
+
+__Whether you are an artist or designer looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications there should be something for you here!__
+
+## Materials
+
+Feel free to engage with as many (or as few) of these resources as you want.
+
+| Live | Notes/Exercises/Examples | Recordings | Forum | Chat |
+|:--:|:--:|:--:|:--:|:--:|
+| [Twitch](https://www.twitch.tv/thedatawarehaus) | [This repo!](#) | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Github Discussions](#) | [Discord](https://discord.gg/kA8vFDUkr5) |
+
+## Prerequisites
+
+- Experience with a scripting language, e.g., Javascript or Python (all code demos will be in Javascript).
+- Familiarity with the data science process and machine learning are a plus.
+
+## Getting Help
+
+## (tentative) Schedule
+
+| Week | Readings | Lecture/Demo | Exercise |
+|:-:|:-:|:-:|:-:|
+| 1 | TBD | | |
+| 2 | TBD | | |
+| 3 | TBD | | |
+| 4 | TBD | | |
+| 5 | TBD | | |
+| 6 | TBD | | |
+| 7 | TBD | | |
+| 8 | TBD | | |
+
+
+## Resources
+
+Art and Machine Learning resources and references (with some new media thrown in).
+
+### Courses (loosely defined)
 
 * [Machine Learning for Artists](https://ml4a.github.io/classes/)
 * ITP @ NYU: [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
@@ -18,8 +55,7 @@ These resources and tutorials are for anyone interested in using machine learnin
 * CMU: [New Media Installation: Art that Learns](https://artthatlearns.wordpress.com/syllabus/)
 * Coding Train: [Youtube Playlists](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50)
 
-
-# Creative Coding Tools
+### Creative Coding Tools
 
 Here is a list of some common creative coding libraries (not including machine learning specific libraries).
 
@@ -30,11 +66,9 @@ Here is a list of some common creative coding libraries (not including machine l
 - Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/), [Sonic Pi](https://sonic-pi.net/))
 - Text ([spacy](https://spacy.io/), [natural](https://github.com/NaturalNode/natural), [Tracery](http://tracery.io/))
 
-{{% alert warning center %}}
-*Not sure where to start/what to use, try [p5.js](https://p5js.org/) or [processing.py](http://py.processing.org/) 🙌*
-{{% /alert %}}
+> Not sure where to start/what to use, try [p5.js](https://p5js.org/) or [processing.py](http://py.processing.org/) 🙌
 
-# Machine Learning Tools (for making art)
+### Machine Learning Tools (for making art)
 
 * [Wekinator](http://www.wekinator.org/)
 * [Magenta](https://magenta.tensorflow.org/)
@@ -43,7 +77,7 @@ Here is a list of some common creative coding libraries (not including machine l
 * [ml5.js](https://ml5js.org/)
 * [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
-## General purpose frameworks/libraries
+#### General purpose frameworks/libraries
 
 * [PyTorch](https://pytorch.org/)
 * [Tensorflow](https://www.tensorflow.org/)
@@ -55,12 +89,12 @@ Here is a list of some common creative coding libraries (not including machine l
 * [Unity ML-Agents](https://unity3d.com/machine-learning)
 * [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
 
-# Google Colab Examples/Documentation
+### Google Colab Examples/Documentation
 
 - [Getting Started with Google Colab (and running your first network)](https://colab.research.google.com/drive/1TzaPS3jvRadN-URLbQ9nD1ZNoZktfNRy)
 - [pix2pix Walkthrough](https://drive.google.com/file/d/16UoYX16K_cuXjEdd29zm1ZEMwEE4OSPI/view?usp=sharing)
 
-## Semi-official Google Contributed
+#### Semi-official Google Contributed
 
 - [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 - [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
@@ -72,7 +106,7 @@ Here is a list of some common creative coding libraries (not including machine l
 - [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - [MusicVAE](https://colab.research.google.com/notebooks/magenta/music_vae/music_vae.ipynb)
 
-# Interactive ML Embedding Examples
+### Interactive ML Embedding Examples
 
 Here are some fun interactive embedding visualizations from Google's AI Experiments, hopefully they also give some intuition about high dimensional spaces and what embedding does to them:
 
@@ -82,7 +116,7 @@ Here are some fun interactive embedding visualizations from Google's AI Experime
 - [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
 - [Bird Sounds](https://experiments.withgoogle.com/ai/bird-sounds/view/)
 
-# Generative, Procedural, and Algorithmic Art Tutorials
+### Generative, Procedural, and Algorithmic Art Tutorials
 
 Here are some examples/tutorials on creating generative, procedural, or algorithmic art/designs using code.
 
@@ -95,7 +129,7 @@ Here are some examples/tutorials on creating generative, procedural, or algorith
 - [Generative Music](https://teropa.info/loop/#/title)
 - [Procedural Content Generation in Games](http://pcgbook.com/)
 
-# People
+### People
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
@@ -120,7 +154,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 * [Golan Levin](http://www.flong.com/)
 
 
-# Places
+### Places
 
 * [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
 * [ITP](https://tisch.nyu.edu/itp)
@@ -133,3 +167,27 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 * Sony CSL: [Tokyo](https://www.sonycsl.co.jp/) and [Paris](https://csl.sony.fr/)
 * [The Brown Institute](https://brown.columbia.edu/)
 * [UCLA Design Media Arts](http://dma.ucla.edu/)
+
+
+## LICENSE
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://jonathanjonathanjonathan.com">Jonathan Dinu</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a></p>
+
+### You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+_The licensor cannot revoke these freedoms as long as you follow the license terms._
+
+### Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+### Notices:
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
