@@ -24,20 +24,22 @@ Feel free to engage with as many (or as few) of these resources as you want.
 - Experience with a scripting language, e.g., Javascript or Python (all code demos will be in Javascript).
 - Familiarity with the data science process and machine learning are a plus.
 
+## (tentative) Outline
+
+Application first applied workshops.
+
+| | Topic | Readings | Lecture/Demo | Exercise |
+|:-:|:-:|:-:|:-:|:--:|
+| 1 | Intro to ML | TBD | | |
+| 2 | Generative Models | TBD | | |
+| 3 | Image Synthesis | TBD | | |
+| 4 | | TBD | | |
+| 5 | | TBD | | |
+| 6 | | TBD | | |
+| 7 | | TBD | | |
+| 8 | Multimodal Applications | TBD | | |
+
 ## Getting Help
-
-## (tentative) Schedule
-
-| Week | Readings | Lecture/Demo | Exercise |
-|:-:|:-:|:-:|:-:|
-| 1 | TBD | | |
-| 2 | TBD | | |
-| 3 | TBD | | |
-| 4 | TBD | | |
-| 5 | TBD | | |
-| 6 | TBD | | |
-| 7 | TBD | | |
-| 8 | TBD | | |
 
 
 ## Resources
