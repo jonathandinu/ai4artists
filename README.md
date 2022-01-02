@@ -5,11 +5,20 @@
 
 ![](simple-neural-net-art-diagram.png)
 
-## Deep Learnming without the Pain (or the Python)
+## Deep Learning without the Pain (or the Python)
 
 This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/thedatawarehaus) series in the form of live lectures/workshops. Recordings of the streams will be edited and augmented (with better graphics) and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed. 
 
+These materials are a top-down application-first appproach to both understanding how to use deep learning __for__ art as well as an exploration of neural networks __as__ art (this will make sense later in the course). All code examples will be in Javascript using [Tensorflow.js](https://www.tensorflow.org/js).
+
 __Whether you are an artist or designer looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications there should be something for you here!__
+
+## By the end will feel comfortable
+
+* Prototyping a model in a DL reseach paper.
+* Understanding and staying up to date on recent advances.
+* Critically critiquing art created with AI.
+* Creating you own generative art piece (and possibly minting it as a NFT).
 
 ## Materials
 
@@ -25,9 +34,6 @@ Feel free to engage with as many (or as few) of these resources as you want.
 - Familiarity with the data science process and machine learning are a plus.
 
 ## (tentative) Outline
-
-These materials are a top-down application-first appproach to both understanding how to use deep learning __for__ art as well as an exploration of neural networks __as__ art (this will make sense later in the course). All code examples will be in Javascript using [Tensorflow.js](https://www.tensorflow.org/js).
-
 
 <!-- | | Lecture | Readings | Topics | Lab |
 |:-:|:-:|:-:|:--|:--:|
