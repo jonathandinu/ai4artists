@@ -7,26 +7,26 @@
 
 ## Deep Learning without the Pain (or the Python)
 
-This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/thedatawarehaus) series in the form of live lectures/workshops. Recordings of the streams will be edited and augmented (with better graphics) and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed. 
+This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/thedatawarehaus) series in the form of live lectures/workshops. Recordings of the streams will be edited and augmented (with better graphics) and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed.
 
-These materials are a top-down application-first appproach to both understanding how to use deep learning __for__ art as well as an exploration of neural networks __as__ art (this will make sense later in the course). All code examples will be in Javascript using [Tensorflow.js](https://www.tensorflow.org/js).
+These materials are a top-down application-first appproach to both understanding how to use deep learning **for** art as well as an exploration of neural networks **as** art (this will make sense later in the course). All code examples will be in Javascript using [Tensorflow.js](https://www.tensorflow.org/js).
 
-__Whether you are an artist or designer looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications there should be something for you here!__
+**Whether you are an artist or designer looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications there should be something for you here!**
 
 ## By the end will feel comfortable
 
-* Prototyping a model in a DL reseach paper.
-* Understanding and staying up to date on recent advances.
-* Critically critiquing art created with AI.
-* Creating you own generative art piece (and possibly minting it as a NFT).
+- Prototyping a model in a DL reseach paper.
+- Understanding and staying up to date on recent advances.
+- Critically critiquing art created with AI.
+- Creating you own generative art piece (and possibly minting it as a NFT).
 
 ## Materials
 
 Feel free to engage with as many (or as few) of these resources as you want.
 
-| Live | Notes/Exercises/Examples | Recordings | Forum | Chat |
-|:--:|:--:|:--:|:--:|:--:|
-| [Twitch](https://www.twitch.tv/thedatawarehaus) | [This repo!](#) | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Github Discussions](#) | [Discord](https://discord.gg/kA8vFDUkr5) |
+|                      Live                       | Notes/Exercises/Examples |                             Recordings                              |          Forum          |                   Chat                   |
+| :---------------------------------------------: | :----------------------: | :-----------------------------------------------------------------: | :---------------------: | :--------------------------------------: |
+| [Twitch](https://www.twitch.tv/thedatawarehaus) |     [This repo!](#)      | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Github Discussions](#) | [Discord](https://discord.gg/kA8vFDUkr5) |
 
 ## Prerequisites
 
@@ -46,9 +46,8 @@ Feel free to engage with as many (or as few) of these resources as you want.
 | 7 | | Neural Networks _as_ art | | Paper to Prototype |
 | 8 | Mixing Modalities | TBD | | |
  -->
- 
-## Getting Help
 
+## Getting Help
 
 ## Resources
 
@@ -56,14 +55,14 @@ Art and Machine Learning resources and references (with some new media thrown in
 
 ### Courses (loosely defined)
 
-* [Machine Learning for Artists](https://ml4a.github.io/classes/)
-* ITP @ NYU: [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
-* ITP @ NYU: [Introduction to Computational Media](https://github.com/ITPNYU/ICM-2018)
-* Kadenze: [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
-* Kadenze: [Generative Art and Computational Creativity](https://www.kadenze.com/programs/generative-art-and-computational-creativity)
-* CMU: [Art and Machine Learning](https://sites.google.com/site/artml2018/lectures)
-* CMU: [New Media Installation: Art that Learns](https://artthatlearns.wordpress.com/syllabus/)
-* Coding Train: [Youtube Playlists](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50)
+- [Machine Learning for Artists](https://ml4a.github.io/classes/)
+- ITP @ NYU: [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
+- ITP @ NYU: [Introduction to Computational Media](https://github.com/ITPNYU/ICM-2018)
+- Kadenze: [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
+- Kadenze: [Generative Art and Computational Creativity](https://www.kadenze.com/programs/generative-art-and-computational-creativity)
+- CMU: [Art and Machine Learning](https://sites.google.com/site/artml2018/lectures)
+- CMU: [New Media Installation: Art that Learns](https://artthatlearns.wordpress.com/syllabus/)
+- Coding Train: [Youtube Playlists](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50)
 
 ### Creative Coding Tools
 
@@ -80,24 +79,40 @@ Here is a list of some common creative coding libraries (not including machine l
 
 ### Machine Learning Tools (for making art)
 
-* [Wekinator](http://www.wekinator.org/)
-* [Magenta](https://magenta.tensorflow.org/)
-* [Runway](https://runwayapp.ai/)
-* [Tensorflow.js](https://js.tensorflow.org/)
-* [ml5.js](https://ml5js.org/)
-* [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
+- [Wekinator](http://www.wekinator.org/)
+- [Magenta](https://magenta.tensorflow.org/)
+- [Runway](https://runwayapp.ai/)
+- [Tensorflow.js](https://js.tensorflow.org/)
+- [ml5.js](https://ml5js.org/)
+- [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
 #### General purpose frameworks/libraries
 
-* [PyTorch](https://pytorch.org/)
-* [Tensorflow](https://www.tensorflow.org/)
-* [Keras](https://keras.io/)
-* [Darknet](https://pjreddie.com/darknet/)
-* [dlib](http://dlib.net/)
-* [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) (with [C# interface](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp))
-* [scikit-learn](https://scikit-learn.org/stable/)
-* [Unity ML-Agents](https://unity3d.com/machine-learning)
-* [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
+- [PyTorch](https://pytorch.org/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Darknet](https://pjreddie.com/darknet/)
+- [dlib](http://dlib.net/)
+- [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) (with [C# interface](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp))
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [Unity ML-Agents](https://unity3d.com/machine-learning)
+- [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
+
+### Online Coding Environments
+
+#### My Favs
+
+- https://codepen.io: My favorite for low overhead/commitment rapid client side experimentation. Split screen views, live reload, sharable, no account necessary, etc.
+- https://glitch.com: My all time favorite for full app/website experimentation and prototyping (or even hosting). Feature rich editor with multi-file and console support. Like a computer in the browser. Does serverside Nodejs and gives you a full virtual machine in the browser environment. Really great community, built for remixing/sharing, easy to go from prototype to production-y app effortlessly. Learner/beginner friendly.
+- https://observablehq.com: Reactive notebook environment (from creators of D3, Backbone.js, etc.). Has some very powerful features but the environment is slighly idiosyncratic (different than normal coding in an editor). Really well suited for remixing, prototyping, and sequential things.
+
+#### Others
+
+- https://codesandbox.io/: IDE in the browser. targeted at rich client side applications (React, Vue, Svelte, etc.) and more development/production-y things.
+- https://repl.it/: Multi language support.
+- https://runkit.com: Similar notebook-like environment. targeted at Nodejs and more server side development?
+- https://jsfiddle.net/: older but similar to Codepen. Similar features but maybe less actively maintained and less commercial/company support behind it.
+- https://jsbin.com/: Similar to JS Fiddle but not actively maintained?
 
 ### Google Colab Examples/Documentation
 
@@ -143,41 +158,39 @@ Here are some examples/tutorials on creating generative, procedural, or algorith
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
-* Memo Akten ([website](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
-* [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
-* [Tom White](https://drib.net/)
-* [Hannah Davis](http://www.hannahishere.com/)
-* [Mario Klingemann](http://quasimondo.com/)
-* [Robbie Barrat](https://robbiebarrat.github.io/)
-* [Mimi Onuoha](http://mimionuoha.com/)
-* [Gene Kogan](http://genekogan.com/)
-* [Allison Parrish](https://www.decontextualize.com/)
-* [Refik Anadol](http://refikanadol.com/)
-* [Tega Brain](http://tegabrain.com/)
-* [Kyle McDonald](http://kylemcdonald.net/)
-* [Mike Tyka](http://www.miketyka.com/)
-* [Lauren McCarthy](http://lauren-mccarthy.com/)
-* [Dan Shiffman](https://shiffman.net/)
-* [Molly Wright Steenson](http://www.girlwonder.com/)
-* [Ken Goldberg](https://goldberg.berkeley.edu/)
-* [Eric Paulos](http://www.paulos.net/index.html)
-* [Golan Levin](http://www.flong.com/)
-
+- Memo Akten ([website](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
+- [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
+- [Tom White](https://drib.net/)
+- [Hannah Davis](http://www.hannahishere.com/)
+- [Mario Klingemann](http://quasimondo.com/)
+- [Robbie Barrat](https://robbiebarrat.github.io/)
+- [Mimi Onuoha](http://mimionuoha.com/)
+- [Gene Kogan](http://genekogan.com/)
+- [Allison Parrish](https://www.decontextualize.com/)
+- [Refik Anadol](http://refikanadol.com/)
+- [Tega Brain](http://tegabrain.com/)
+- [Kyle McDonald](http://kylemcdonald.net/)
+- [Mike Tyka](http://www.miketyka.com/)
+- [Lauren McCarthy](http://lauren-mccarthy.com/)
+- [Dan Shiffman](https://shiffman.net/)
+- [Molly Wright Steenson](http://www.girlwonder.com/)
+- [Ken Goldberg](https://goldberg.berkeley.edu/)
+- [Eric Paulos](http://www.paulos.net/index.html)
+- [Golan Levin](http://www.flong.com/)
 
 ### Places
 
-* [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
-* [ITP](https://tisch.nyu.edu/itp)
-* [Gray Area Foundation for the Arts](https://grayarea.org/)
-* [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
-* [Goldsmiths](https://www.gold.ac.uk/computing/)
-* [Google Artists and Machine Intelligence](https://ami.withgoogle.com/)
-* [Google Creative Lab](https://www.creativelab5.com/)
-* [The Lab at the Google Cultural Institute](https://www.google.com/culturalinstitute/thelab/)
-* Sony CSL: [Tokyo](https://www.sonycsl.co.jp/) and [Paris](https://csl.sony.fr/)
-* [The Brown Institute](https://brown.columbia.edu/)
-* [UCLA Design Media Arts](http://dma.ucla.edu/)
-
+- [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
+- [ITP](https://tisch.nyu.edu/itp)
+- [Gray Area Foundation for the Arts](https://grayarea.org/)
+- [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
+- [Goldsmiths](https://www.gold.ac.uk/computing/)
+- [Google Artists and Machine Intelligence](https://ami.withgoogle.com/)
+- [Google Creative Lab](https://www.creativelab5.com/)
+- [The Lab at the Google Cultural Institute](https://www.google.com/culturalinstitute/thelab/)
+- Sony CSL: [Tokyo](https://www.sonycsl.co.jp/) and [Paris](https://csl.sony.fr/)
+- [The Brown Institute](https://brown.columbia.edu/)
+- [UCLA Design Media Arts](http://dma.ucla.edu/)
 
 ## LICENSE
 
