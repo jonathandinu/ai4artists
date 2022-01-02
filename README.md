@@ -13,7 +13,7 @@ This repo exists as part curriculum and part textbook for Jonathan's Art and mac
 
 __Whether you are an artist or designer looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications there should be something for you here!__
 
-## Materials
+<!-- ## Materials
 
 Feel free to engage with as many (or as few) of these resources as you want.
 
@@ -24,7 +24,7 @@ Feel free to engage with as many (or as few) of these resources as you want.
 ## Prerequisites
 
 - Experience with a scripting language, e.g., Javascript or Python (all code demos will be in Javascript).
-- Familiarity with the data science process and machine learning are a plus.
+- Familiarity with the data science process and machine learning are a plus. -->
 
 ## (tentative) Outline
 
