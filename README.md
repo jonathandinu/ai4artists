@@ -3,7 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 [![Twitch Status](https://img.shields.io/twitch/status/thedatawarehaus?style=flat-square)](https://www.twitch.tv/thedatawarehaus)
 
-![](simple-neural-net-art-diagram.svg)
+![](simple-neural-net-art-diagram.png)
 
 > Part art, part AI.... all fun!
 
