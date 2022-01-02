@@ -31,7 +31,7 @@ Feel free to engage with as many (or as few) of these resources as you want.
 Application first applied workshops.
 
 | | Topic | Readings | Lecture/Demo | Exercise |
-|:-:|:-:|:-:|:-:|:--:|
+|:-:|:-:|:-:|:--|:--:|
 | 1 | Intro to ML | TBD | <ul><li>Machine learning Process</li><li>All things Data</li></ul> | [Teachable Machine](https://teachablemachine.withgoogle.com/) |
 | 2 | Generative Models | TBD | | |
 | 3 | Image Synthesis | TBD | | |
