@@ -1,7 +1,7 @@
 [![Discord badge](https://img.shields.io/discord/912535832701837323?style=flat-square&color=%235865F2)](https://discord.gg/kA8vFDUkr5)
-[![Twitter Follow badge](https://img.shields.io/badge/twitter-@psychothan-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/psychothan)
+[![Twitter Follow badge](https://img.shields.io/badge/twitter-@clearspandex-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/psychothan)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
-[![Twitch Status](https://img.shields.io/twitch/status/thedatawarehaus?style=flat-square)](https://www.twitch.tv/thedatawarehaus)
+[![Twitch Status](https://img.shields.io/twitch/status/psychothan721?style=flat-square)](https://www.twitch.tv/thedatawarehaus)
 
 ![](images/simple-neural-net-art-diagram.png)
 
