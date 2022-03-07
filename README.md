@@ -24,8 +24,8 @@ These materials are a top-down application-first appproach to both understanding
 
 Feel free to engage with as many (or as few) of these resources as you want.
 
-|                      Live                       | Notes/Exercises/Examples |                             Recordings               |                   Chat                   |
-| :---------------------------------------------: | :----------------------: | :-----------------------------------------------------------------: | :---------------------: | :--------------------------------------: |
+|                      Live           | Notes/Exercises/Examples |                             Recordings               |                   Chat                   |
+| :---------------------------------------------: | :----------------------: | :-----------------------------------------------------------------: | :--------------------------------------: |
 | [Twitch](https://www.twitch.tv/psychothan721) |     [This repo!](#)      | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Discord](https://discord.gg/kA8vFDUkr5) |
 
 ## Resources
