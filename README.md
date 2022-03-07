@@ -5,9 +5,9 @@
 
 ![](images/simple-neural-net-art-diagram.png)
 
-## Ars Ex Machina
+## Ars ex machina (art from the machine)
 
-This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/thedatawarehaus) series in the form of live lectures/workshops. Recordings of the streams will be edited and augmented (with better graphics) and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed.
+This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/psychothan721) series in the form of live lectures/workshops. Recordings of the streams will be edited and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed.
 
 These materials are a top-down application-first appproach to both understanding how to use deep learning **for** art as well as an exploration of neural networks **as** art (this will make sense later in the course). All code examples will be in Javascript using [Tensorflow.js](https://www.tensorflow.org/js).
 
@@ -24,30 +24,9 @@ These materials are a top-down application-first appproach to both understanding
 
 Feel free to engage with as many (or as few) of these resources as you want.
 
-|                      Live                       | Notes/Exercises/Examples |                             Recordings                              |          Forum          |                   Chat                   |
+|                      Live                       | Notes/Exercises/Examples |                             Recordings               |                   Chat                   |
 | :---------------------------------------------: | :----------------------: | :-----------------------------------------------------------------: | :---------------------: | :--------------------------------------: |
-| [Twitch](https://www.twitch.tv/thedatawarehaus) |     [This repo!](#)      | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Github Discussions](#) | [Discord](https://discord.gg/kA8vFDUkr5) |
-
-## Prerequisites
-
-- Experience with a scripting language, e.g., Python or Javascript (all code demos will be in Javascript).
-- Familiarity with the data science process and machine learning are a plus.
-
-## (tentative) Outline
-
-<!-- | | Lecture | Readings | Topics | Lab |
-|:-:|:-:|:-:|:--|:--:|
-| 1 | ML Basics | TBD | <ul><li>Machine learning Process</li><li>All things Data</li></ul> | [Teachable Machine](https://teachablemachine.withgoogle.com/) |
-| 2 | Generative Models | TBD | | |
-| 3 | Image Synthesis | <ul><li>Machine learning Process</li><li>All things Data</li></ul> | | |
-| 4 | | TBD | | |
-| 5 | | TBD | | |
-| 6 | | TBD | | |
-| 7 | | Neural Networks _as_ art | | Paper to Prototype |
-| 8 | Mixing Modalities | TBD | | |
- -->
-
-## Getting Help
+| [Twitch](https://www.twitch.tv/psychothan721) |     [This repo!](#)      | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Discord](https://discord.gg/kA8vFDUkr5) |
 
 ## Resources
 
