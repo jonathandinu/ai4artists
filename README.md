@@ -5,7 +5,7 @@
 
 ![](images/simple-neural-net-art-diagram.png)
 
-## Deep Learning without the Pain (or the Python)
+## Ars Ex Machina
 
 This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/thedatawarehaus) series in the form of live lectures/workshops. Recordings of the streams will be edited and augmented (with better graphics) and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed.
 
