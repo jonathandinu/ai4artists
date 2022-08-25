@@ -156,6 +156,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 - [Ken Goldberg](https://goldberg.berkeley.edu/)
 - [Eric Paulos](http://www.paulos.net/index.html)
 - [Golan Levin](http://www.flong.com/)
+- [Trevor Paglen](https://paglen.studio/)
 
 ### Places
 
