@@ -121,8 +121,6 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Creative Coding
 
-> Not sure where to start/what to use, try [p5.js](https://p5js.org/) 🙌
-
 #### Frameworks
 
 * ⭐️ __[Processing (Java)](https://processing.org/) and [p5.js (Javascript)](https://p5js.org/)__
