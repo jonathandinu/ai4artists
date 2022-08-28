@@ -183,11 +183,11 @@ For a broader resource covering more general creative coding tools (that you mig
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
-- [Trevor Paglen](https://paglen.studio/)
 - [Neural Bricolage (helena sarin)](https://twitter.com/NeuralBricolage)
 - [Memo Akten](http://www.memo.tv/works/)
 - [Anna Ridler](http://annaridler.com/)
 - [Mario Klingemann](http://quasimondo.com/)
+- [Trevor Paglen](https://paglen.studio/)
 - [Tom White](https://drib.net/)
 - [Tega Brain](http://tegabrain.com/)
 - [Lauren McCarthy](http://lauren-mccarthy.com/)
