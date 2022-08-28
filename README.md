@@ -88,11 +88,11 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Creative ML
 
-* ⭐️ __[Magenta](https://magenta.tensorflow.org/)__
-* [MediaPipe](https://google.github.io/mediapipe/)
-* [Wekinator](http://www.wekinator.org/)
 * [Tensorflow.js](https://js.tensorflow.org/)
 * [ml5.js](https://ml5js.org/)
+* [MediaPipe](https://google.github.io/mediapipe/)
+* ⭐️ __[Magenta](https://magenta.tensorflow.org/)__
+* [Wekinator](http://www.wekinator.org/)
 * [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
 ### General Deep Learning
@@ -100,20 +100,19 @@ For a broader resource covering more general creative coding tools (that you mig
 * ⭐️ __[PyTorch](https://pytorch.org/)__
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
-* [Transformers (🤗)](https://huggingface.co/docs/transformers/index)
-* [Diffusers (🤗)](https://github.com/huggingface/diffusers)
+* [🤗 Transformers](https://huggingface.co/docs/transformers/index)
+* [🤗 Diffusers](https://github.com/huggingface/diffusers)
 * [JAX](https://github.com/google/jax)
-* [Darknet](https://pjreddie.com/darknet/)
 * [dlib](http://dlib.net/)
+* [Darknet](https://pjreddie.com/darknet/)
 
 ### Text-to-Image
 
-* [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)
-* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch)
 * ⭐️ __[Stable Diffusion](https://github.com/CompVis/stable-diffusion)__
 * [Imagen](https://github.com/lucidrains/imagen-pytorch)
-* [Parti)](https://github.com/google-research/parti)
-* [Stable Diffusion Prompt Search](https://lexica.art/)
+* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch)
+* [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)
+* [Parti](https://github.com/google-research/parti)
 
 ### Creative Coding
 
@@ -128,17 +127,18 @@ For a broader resource covering more general creative coding tools (that you mig
 
 #### Visual Programming Languages
 
+* [vvvv](https://vvvv.org/)
 * ⭐️ __[TouchDesigner](https://derivative.ca/)__
 * [Max/MSP/Jitter](https://cycling74.com/products/max/)
-* [vvvv](https://vvvv.org/)
+* [Pure Data](https://puredata.info/)
 
 #### Audio
 
-* ⭐️ __[tone.js](https://tonejs.github.io/)__
-* [Pure Data](https://puredata.info/)
+* [Sonic Pi](https://sonic-pi.net/)
+* ⭐️ __[SuperCollider](https://supercollider.github.io/)__
 * [Overtone](https://overtone.github.io/)
+* [Tone.js](https://tonejs.github.io/)
 * [ChucK](http://chuck.cs.princeton.edu/)
-* [Sonic Pi](https://sonic-pi.net/))
 
 #### WebGL
 
@@ -170,6 +170,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 * [Artbreeder](https://www.artbreeder.com/)
 * ⭐️ __[Dream Studio (Stability AI)](https://beta.dreamstudio.ai/)__
+* [Stable Diffusion Prompt Search](https://lexica.art/)
 * [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
 * [Runway](https://runwayml.com/) - AI powered video editor.
 * [Facet AI](https://facet.ai/) - AI powered image editor.
