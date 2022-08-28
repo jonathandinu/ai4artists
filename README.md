@@ -10,9 +10,6 @@ For a broader resource covering more general creative coding tools (that you mig
 
 * [Learning](#learning)
   * [Courses](#courses)
-    * [General Deep Learning](#general-deep-learning)
-    * [Geep Generative Modeling)](#deep-generative-modeling)
-    * [Creative Coding and New Media)](#creative-coding-and-new-media)
   * [Videos](#videos)
   * [Books](#books)
   * [Tutorials and Blogs](#tutorials-and-blogs)
@@ -76,7 +73,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 * [Tutorial on Deep Generative Models (IJCAI-ECAI 2018)](https://ermongroup.github.io/generative-models/)
 * [Tutorial on GANs (CVPR 2018)](https://sites.google.com/view/cvpr2018tutorialongans/)
-* ⭐️ __[Lil'Log (Lilian Weng)]__(https://lilianweng.github.io/)
+* ⭐️ __[Lil'Log (Lilian Weng)](https://lilianweng.github.io/)__
 * [Distill (on hiatus)](https://distill.pub/)
 
 #### Generative Art
