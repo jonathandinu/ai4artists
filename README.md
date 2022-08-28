@@ -209,17 +209,16 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 ## Institutions/Places
 
 - [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
-- [ITP](https://tisch.nyu.edu/itp)
+- [ITP @ NYU](https://tisch.nyu.edu/itp)
 - [Gray Area Foundation for the Arts](https://grayarea.org/)
+- [Stability AI (Eleuther, LAION, et al.)](https://stability.ai/)
+- [Goldsmiths @ University of London](https://www.gold.ac.uk/computing/)
+- [UCLA Design Media Arts](http://dma.ucla.edu/)
 - [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
-- [Goldsmiths](https://www.gold.ac.uk/computing/)
 - [Google Artists and Machine Intelligence](https://ami.withgoogle.com/)
 - [Google Creative Lab](https://www.creativelab5.com/)
 - [The Lab at the Google Cultural Institute](https://www.google.com/culturalinstitute/thelab/)
 - Sony CSL ([Tokyo](https://www.sonycsl.co.jp/) and [Paris](https://csl.sony.fr/))
-- [The Brown Institute](https://brown.columbia.edu/)
-- [UCLA Design Media Arts](http://dma.ucla.edu/)
-- [Stability AI (Eleuther, LAION, et al.)](https://stability.ai/)
 
 ## Related lists and collections
 
