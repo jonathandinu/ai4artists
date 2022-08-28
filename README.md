@@ -86,28 +86,25 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ## Tools
 
-### Generative Modeling
+### Creative ML
 
-* ⭐️ __[Stable Diffusion]__(https://github.com/CompVis/stable-diffusion)
-* [Transformers (🤗)](https://huggingface.co/docs/transformers/index)
-* [Diffusers (🤗)](https://github.com/huggingface/diffusers)
-* [Magenta](https://magenta.tensorflow.org/)
+* ⭐️ __[Magenta](https://magenta.tensorflow.org/)__
 * [MediaPipe](https://google.github.io/mediapipe/)
 * [Wekinator](http://www.wekinator.org/)
 * [Tensorflow.js](https://js.tensorflow.org/)
 * [ml5.js](https://ml5js.org/)
 * [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
-### Deep Learning Frameworks
+### General Deep Learning
 
 * ⭐️ __[PyTorch](https://pytorch.org/)__
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
+* [Transformers (🤗)](https://huggingface.co/docs/transformers/index)
+* [Diffusers (🤗)](https://github.com/huggingface/diffusers)
 * [JAX](https://github.com/google/jax)
 * [Darknet](https://pjreddie.com/darknet/)
 * [dlib](http://dlib.net/)
-* [Unity ML-Agents](https://unity3d.com/machine-learning)
-* [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
 
 ### Text-to-Image
 
