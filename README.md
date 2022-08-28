@@ -19,8 +19,8 @@ For a broader resource covering more general creative coding tools (that you mig
   * [text-to-image](#text-to-image)
   * [Creative Coding](#creative-coding)
 * [Products/Apps](#productsapps)
-* [People](#people)
-* [Places](#places)
+* [Artists](#artists)
+* [Institutions/Places](#institutionsplaces)
 * [Related Lists](#related-lists-and-collections)
 
 > __bold__ entries signify my favorite resource(s) for that section/subsection (if I _HAD_ to choose a single resource). Additionally each subsection is usually ordered by specificity of content (most general listed first).
@@ -184,7 +184,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos/)
 * [ClipDrop](https://clipdrop.co/) and [cleanup.pictures](https://cleanup.pictures/)
 
-## People
+## Artists
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
@@ -206,7 +206,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 - [Caroline Sinders](https://carolinesinders.com/)
 - [Golan Levin](http://www.flong.com/)
 
-## Places
+## Institutions/Places
 
 - [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
 - [ITP](https://tisch.nyu.edu/itp)
