@@ -13,7 +13,6 @@ For a broader resource covering more general creative coding tools (that you mig
   * [Videos](#videos)
   * [Books](#books)
   * [Tutorials and Blogs](#tutorials-and-blogs)
-<!-- * [Research]() -->
 * [Products/Apps](#productsapps)
 * [People](#people)
 * [Places](#places)
@@ -45,7 +44,7 @@ For a broader resource covering more general creative coding tools (that you mig
 #### Creative Coding and New Media
 
 * ⭐️ __[Deep Learning for Art, Aesthetics, and Creativity (MIT)](https://ali-design.github.io/deepcreativity/)__
-* [Introduction to Computational Media (ITP/NYU)](https://github.com/ITPNYU/ICM-2018)
+* Introduction to Computational Media (ITP/NYU) ([Media](https://github.com/ITPNYU/ICM-2022-Media) and [CODE](https://github.com/ITPNYU/ICM-2022-Code))
 * [Machine Learning for the Web (ITP/NYU)](https://github.com/yining1023/machine-learning-for-the-web)
 * [New Media Installation: Art that Learns (CMU)](https://artthatlearns.wordpress.com/syllabus/)
 * [Art and Machine Learning (CMU)](https://sites.google.com/site/artml2018/lectures)
