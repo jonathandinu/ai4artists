@@ -13,6 +13,11 @@ For a broader resource covering more general creative coding tools (that you mig
   * [Videos](#videos)
   * [Books](#books)
   * [Tutorials and Blogs](#tutorials-and-blogs)
+* [Tools](#tools)
+  * [Creative ML](#creative-ml)
+  * [Deep Learning](#deep-learning-frameworks)
+  * [text-to-image](#text-to-image)
+  * [Creative Coding](#creative-coding)
 * [Products/Apps](#productsapps)
 * [People](#people)
 * [Places](#places)
@@ -95,7 +100,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Wekinator](http://www.wekinator.org/)
 * [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
-### General Deep Learning
+### Deep Learning Frameworks
 
 * ⭐️ __[PyTorch](https://pytorch.org/)__
 * [Keras](https://keras.io/)
