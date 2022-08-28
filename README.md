@@ -137,6 +137,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Max/MSP/Jitter](https://cycling74.com/products/max/)
 * [Pure Data](https://puredata.info/)
 
+<!-- 
 #### Audio
 
 * [Sonic Pi](https://sonic-pi.net/)
@@ -159,7 +160,8 @@ For a broader resource covering more general creative coding tools (that you mig
 * [natural](https://github.com/NaturalNode/natural)
 * [Tracery](http://tracery.io/)
 
-<!-- ## Research
+
+## Research
 
 ### Foundational Papers
 
