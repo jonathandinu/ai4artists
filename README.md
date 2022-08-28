@@ -170,7 +170,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 * [Artbreeder](https://www.artbreeder.com/)
 * ⭐️ __[Dream Studio (Stability AI)](https://beta.dreamstudio.ai/)__
-* [Stable Diffusion Prompt Search](https://lexica.art/)
+* [lexica.art](https://lexica.art/) - Stable Diffusion Prompt Search. 
 * [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
 * [Runway](https://runwayml.com/) - AI powered video editor.
 * [Facet AI](https://facet.ai/) - AI powered image editor.
@@ -183,26 +183,23 @@ For a broader resource covering more general creative coding tools (that you mig
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
+- [Trevor Paglen](https://paglen.studio/)
+- [Neural Bricolage (helena sarin)](https://twitter.com/NeuralBricolage)
 - [Memo Akten](http://www.memo.tv/works/)
-- [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
-- [Tom White](https://drib.net/)
-- [Hannah Davis](http://www.hannahishere.com/)
+- [Anna Ridler](http://annaridler.com/)
 - [Mario Klingemann](http://quasimondo.com/)
+- [Tom White](https://drib.net/)
+- [Tega Brain](http://tegabrain.com/)
+- [Lauren McCarthy](http://lauren-mccarthy.com/)
+- [Refik Anadol](http://refikanadol.com/)
+- [Sofia Crespo](https://sofiacrespo.com/1)
 - [Robbie Barrat](https://robbiebarrat.github.io/)
 - [Mimi Onuoha](http://mimionuoha.com/)
 - [Gene Kogan](http://genekogan.com/)
-- [Allison Parrish](https://www.decontextualize.com/)
-- [Refik Anadol](http://refikanadol.com/)
-- [Tega Brain](http://tegabrain.com/)
 - [Kyle McDonald](http://kylemcdonald.net/)
-- [Mike Tyka](http://www.miketyka.com/)
-- [Lauren McCarthy](http://lauren-mccarthy.com/)
-- [Dan Shiffman](https://shiffman.net/)
-- [Molly Wright Steenson](http://www.girlwonder.com/)
-- [Ken Goldberg](https://goldberg.berkeley.edu/)
-- [Eric Paulos](http://www.paulos.net/index.html)
+- [Allison Parrish](https://www.decontextualize.com/)
+- [Caroline Sinders](https://carolinesinders.com/)
 - [Golan Levin](http://www.flong.com/)
-- [Trevor Paglen](https://paglen.studio/)
 
 ## Places
 
