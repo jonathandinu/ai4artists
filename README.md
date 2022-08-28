@@ -228,4 +228,4 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
