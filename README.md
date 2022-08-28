@@ -80,7 +80,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Tutorial on Deep Generative Models (IJCAI-ECAI 2018)](https://ermongroup.github.io/generative-models/)
 * [Tutorial on GANs (CVPR 2018)](https://sites.google.com/view/cvpr2018tutorialongans/)
 * [Lil'Log (Lilian Weng)](https://lilianweng.github.io/)
-* [Distill (on hiatus)](https://distill.pub/)
+* [Distill [on hiatus]](https://distill.pub/)
 
 #### Generative Art
 
