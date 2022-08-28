@@ -1,143 +1,194 @@
-[![Discord badge](https://img.shields.io/discord/912535832701837323?style=flat-square&color=%235865F2)](https://discord.gg/kA8vFDUkr5)
-[![Twitter Follow badge](https://img.shields.io/badge/twitter-@clearspandex-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/clearspandex)
-[![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
-[![Twitch Status](https://img.shields.io/twitch/status/psychothan721?style=flat-square)](https://www.twitch.tv/psychothan721)
+# Awesome AI Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](images/simple-neural-net-art-diagram.png)
 
-## Ars ex machina (art from the machine)
+> Resources at the intersection of AI _AND_ Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-This repo exists as part curriculum and part textbook for Jonathan's art and machine learning virtual "course". The course is mainly an indefinite [Twitch](https://www.twitch.tv/psychothan721) series in the form of live lectures/workshops. Recordings of the streams will be edited and posted to [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) as VODs. Lecture notes and exercises will form an informal interactive textbook and reference if reading is more your speed.
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) or [https://thatcreativecode.page/](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) and [https://github.com/dair-ai](https://github.com/dair-ai).
 
-These materials are a top-down application-first appproach to both understanding how to use deep learning **for** art as well as an exploration of neural networks **as** art (this will make sense later in the course). All code examples will be in Javascript using [Tensorflow.js](https://www.tensorflow.org/js).
+## Contents
 
-**Whether you are an artist or designer looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications there should be something for you here!**
+* [Learning](#learning)
+  * [Courses](#courses)
+    * [General Deep Learning](#general-deep-learning)
+    * [Geep Generative Modeling)](#deep-generative-modeling)
+    * [Creative Coding and New Media)](#creative-coding-and-new-media)
+  * [Videos](#videos)
+  * [Books](#books)
+  * [Tutorials and Blogs](#tutorials-and-blogs)
+<!-- * [Research]() -->
+* [Products/Apps](#productsapps)
+* [People](#people)
+* [Places](#places)
+* [Contribute](#contribute)
+* [Related Lists](#related-lists-and-collections)
 
-## By the end will feel comfortable
+> __bold__ entries signify my favorite resource(s) for that section/subsection (if I _HAD_ to choose a single resource). Additionally each subsection is usually ordered by specificity of content (most general listed first).
 
-- Prototyping a model in a DL reseach paper.
-- Understanding and staying up to date on recent advances.
-- Critically critiquing art created with AI.
-- Creating you own generative art piece (and possibly minting it as a NFT).
+## Learning
 
-## Materials
+### Courses
 
-Feel free to engage with as many (or as few) of these resources as you want.
+#### General Deep Learning
 
-|                      Live           | Notes/Exercises/Examples |                             Recordings               |                   Chat                   |
-| :---------------------------------------------: | :----------------------: | :-----------------------------------------------------------------: | :--------------------------------------: |
-| [Twitch](https://www.twitch.tv/psychothan721) |     [This repo!](#)      | [YouTube](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q) | [Discord](https://discord.gg/kA8vFDUkr5) |
+* [Practical Deep Learning for Coders (fast.ai)](https://course19.fast.ai/index.html)
+* [Deep Learning (NYU)](https://atcold.github.io/pytorch-Deep-Learning/)
+* [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/F22/resources.html)
+* ⭐️ __[Deep Learning for Computer Vision (UMich)](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)__
+* [Deep Learning for Computer Vision (Stanford CS231n)](http://cs231n.stanford.edu/index.html)
+* [Natural Language Processing with Deep Learning (Stanford CS224n)](https://web.stanford.edu/class/cs224n/)
 
-## Resources
+#### Deep Generative Modeling
 
-Art and Machine Learning resources and references (with some new media thrown in).
+* [Deep Generative Models (Stanford)](https://deepgenerativemodels.github.io/)
+* [Deep Unsupervised Learning (UC Berkeley)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+* [Differentiable Inference and Generative Models (Toronto)](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+* ⭐️ __[Learning-Based Image Synthesis (CMU)](https://learning-image-synthesis.github.io/sp22/)__
+* [Learning Discrete Latent Structure (Toronto)](https://duvenaud.github.io/learn-discrete/)
 
-### Courses (loosely defined)
+#### Creative Coding and New Media
 
-- [Machine Learning for Artists](https://ml4a.github.io/classes/)
-- ITP @ NYU: [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
-- ITP @ NYU: [Introduction to Computational Media](https://github.com/ITPNYU/ICM-2018)
-- Kadenze: [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
-- Kadenze: [Generative Art and Computational Creativity](https://www.kadenze.com/programs/generative-art-and-computational-creativity)
-- CMU: [Art and Machine Learning](https://sites.google.com/site/artml2018/lectures)
-- CMU: [New Media Installation: Art that Learns](https://artthatlearns.wordpress.com/syllabus/)
-- Coding Train: [Youtube Playlists](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50)
+* ⭐️ __[Deep Learning for Art, Aesthetics, and Creativity (MIT)](https://ali-design.github.io/deepcreativity/)__
+* [Introduction to Computational Media (ITP/NYU)](https://github.com/ITPNYU/ICM-2018)
+* [Machine Learning for the Web (ITP/NYU)](https://github.com/yining1023/machine-learning-for-the-web)
+* [New Media Installation: Art that Learns (CMU)](https://artthatlearns.wordpress.com/syllabus/)
+* [Art and Machine Learning (CMU)](https://sites.google.com/site/artml2018/lectures)
 
-### Creative Coding Tools
+### Videos
 
-Here is a list of some common creative coding libraries (not including machine learning specific libraries).
+* ⭐️ __[The AI that creates any picture you want, explained (Vox)](https://youtu.be/SVcsDDABEkM)__
+* [I Created a Neural Network and Tried Teaching it to Recognize Doodles (Sebastian Lague)](https://youtu.be/hfMk-kjRv4c)
+* [Neural Network Series (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [Beginner's Guide to Machine Learning in JavaScript (Coding Train)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+* [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 
-- Processing ([Java](https://processing.org/), [p5.js](https://p5js.org/), and [processing.py](http://py.processing.org/))
-- HTML/Javascript ([canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) and [two.js](https://two.js.org/))
-- 3D/[WebGL](https://github.com/sjfricke/awesome-webgl) ([three.js](https://threejs.org/), [regl](http://regl.party/), [stack.g](http://stack.gl/)l, [Mathbox](https://github.com/unconed/mathbox))
-- Interactive & Installation ([openFrameworks](http://openframeworks.cc/) and [Cinder](https://libcinder.org/))
-- Audio ([tone.js](https://tonejs.github.io/), [Max](https://cycling74.com/products/max/), [Pure Data](https://puredata.info/), [Overtone](https://overtone.github.io/), [ChucK](http://chuck.cs.princeton.edu/), [Sonic Pi](https://sonic-pi.net/))
-- Text ([spacy](https://spacy.io/), [natural](https://github.com/NaturalNode/natural), [Tracery](http://tracery.io/))
+### Books
 
-> Not sure where to start/what to use, try [p5.js](https://p5js.org/) or [processing.py](http://py.processing.org/) 🙌
+* ⭐️ __[Dive into Deep Learning (Zhang, Lipton, Li, and Smola)](https://d2l.ai/index.html)__
+* [Deep Learning (Goodfellow, Bengio, and Courville)](https://www.deeplearningbook.org/)
+* [Computer Vision: Algorithms and Applications (Szeliski)](https://szeliski.org/Book/)
+* [Programming Design Systems](https://programmingdesignsystems.com/)
+* [Procedural Content Generation in Games](http://pcgbook.com/)
 
-### Machine Learning Tools (for making art)
+### Tutorials and Blogs
 
-- [Wekinator](http://www.wekinator.org/)
-- [Magenta](https://magenta.tensorflow.org/)
-- [Runway](https://runwayapp.ai/)
-- [Tensorflow.js](https://js.tensorflow.org/)
-- [ml5.js](https://ml5js.org/)
-- [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
+#### Deep Learning
 
-#### General purpose frameworks/libraries
+* [Tutorial on Deep Generative Models (IJCAI-ECAI 2018)](https://ermongroup.github.io/generative-models/)
+* [Tutorial on GANs (CVPR 2018)](https://sites.google.com/view/cvpr2018tutorialongans/)
+* ⭐️ __[Lil'Log (Lilian Weng)]__(https://lilianweng.github.io/)
+* [Distill (on hiatus)](https://distill.pub/)
 
-- [PyTorch](https://pytorch.org/)
-- [Tensorflow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-- [Darknet](https://pjreddie.com/darknet/)
-- [dlib](http://dlib.net/)
-- [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) (with [C# interface](https://docs.microsoft.com/en-us/cognitive-toolkit/using-cntk-with-csharp))
-- [scikit-learn](https://scikit-learn.org/stable/)
-- [Unity ML-Agents](https://unity3d.com/machine-learning)
-- [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
+#### Generative Art
 
-### Online Coding Environments
+* ⭐️ __[Making Generative Art with Simple Mathematics](http://www.hailpixel.com/articles/generative-art-simple-mathematics)__
+* [Book of Shaders: Generative Designs](https://thebookofshaders.com/10/)
+* [Mike Bostock: Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) (with [Eyeo talk](https://vimeo.com/112319901))
+* [Generative Examples in Processing](https://github.com/digitalcoleman/generativeExamples)
+* [Generative Music](https://teropa.info/loop/#/title)
 
-#### My Favs
+## Tools
 
-- https://codepen.io: My favorite for low overhead/commitment rapid client side experimentation. Split screen views, live reload, sharable, no account necessary, etc.
-- https://glitch.com: My all time favorite for full app/website experimentation and prototyping (or even hosting). Feature rich editor with multi-file and console support. Like a computer in the browser. Does serverside Nodejs and gives you a full virtual machine in the browser environment. Really great community, built for remixing/sharing, easy to go from prototype to production-y app effortlessly. Learner/beginner friendly.
-- https://observablehq.com: Reactive notebook environment (from creators of D3, Backbone.js, etc.). Has some very powerful features but the environment is slighly idiosyncratic (different than normal coding in an editor). Really well suited for remixing, prototyping, and sequential things.
+### Generative Modeling
 
-#### Others
+* ⭐️ __[Stable Diffusion]__(https://github.com/CompVis/stable-diffusion)
+* [Transformers (🤗)](https://huggingface.co/docs/transformers/index)
+* [Diffusers (🤗)](https://github.com/huggingface/diffusers)
+* [Magenta](https://magenta.tensorflow.org/)
+* [MediaPipe](https://google.github.io/mediapipe/)
+* [Wekinator](http://www.wekinator.org/)
+* [Tensorflow.js](https://js.tensorflow.org/)
+* [ml5.js](https://ml5js.org/)
+* [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
-- https://codesandbox.io/: IDE in the browser. targeted at rich client side applications (React, Vue, Svelte, etc.) and more development/production-y things.
-- https://repl.it/: Multi language support.
-- https://runkit.com: Similar notebook-like environment. targeted at Nodejs and more server side development?
-- https://jsfiddle.net/: older but similar to Codepen. Similar features but maybe less actively maintained and less commercial/company support behind it.
-- https://jsbin.com/: Similar to JS Fiddle but not actively maintained?
+### Deep Learning Frameworks
 
-### Google Colab Examples/Documentation
+* ⭐️ __[PyTorch](https://pytorch.org/)__
+* [Keras](https://keras.io/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [JAX](https://github.com/google/jax)
+* [Darknet](https://pjreddie.com/darknet/)
+* [dlib](http://dlib.net/)
+* [Unity ML-Agents](https://unity3d.com/machine-learning)
+* [Various existing GANs (vegans)](https://github.com/unit8co/vegans)
 
-- [Getting Started with Google Colab (and running your first network)](https://colab.research.google.com/drive/1TzaPS3jvRadN-URLbQ9nD1ZNoZktfNRy)
-- [pix2pix Walkthrough](https://drive.google.com/file/d/16UoYX16K_cuXjEdd29zm1ZEMwEE4OSPI/view?usp=sharing)
+### Text-to-Image
 
-#### Semi-official Google Contributed
+* [VQGAN]()
+* [DALLE]()
+* ⭐️ __[Stable Diffusion]()__
+* [Imagen (Google)](https://imagen.research.google/)
+* [Parti (Google)](https://parti.research.google/)
+* [Stable Diffusion Prompt Search](https://lexica.art/)
 
-- [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
-- [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
-- [Importing Libraries](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb)
-- [External data: Drive, Sheets, and Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
-- [Getting Started with BigQuery](https://colab.research.google.com/notebooks/bigquery.ipynb)
-- [Tensorflow with GPU](https://colab.research.google.com/notebooks/gpu.ipynb)
-- [Charts in Colaboratory](https://colab.research.google.com/notebooks/charts.ipynb)
-- [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-- [MusicVAE](https://colab.research.google.com/notebooks/magenta/music_vae/music_vae.ipynb)
+### Creative Coding
 
-### Interactive ML Embedding Examples
+> Not sure where to start/what to use, try [p5.js](https://p5js.org/) 🙌
 
-Here are some fun interactive embedding visualizations from Google's AI Experiments, hopefully they also give some intuition about high dimensional spaces and what embedding does to them:
+#### Frameworks
 
-- [Tensorflow Embedding Projector](http://projector.tensorflow.org/)
-- [NSynth Super](https://nsynthsuper.withgoogle.com/)
-- [IDEO Font Map](http://fontmap.ideo.com/)
-- [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
-- [Bird Sounds](https://experiments.withgoogle.com/ai/bird-sounds/view/)
+* ⭐️ __[Processing (Java)](https://processing.org/) and [p5.js (Javascript)](https://p5js.org/)__
+* [openFrameworks (C++)](http://openframeworks.cc/) 
+* [Cinder (C++)](https://libcinder.org/)
+* [nannou (Rust)](https://nannou.cc/)
 
-### Generative, Procedural, and Algorithmic Art Tutorials
+#### Visual Programming Languages
 
-Here are some examples/tutorials on creating generative, procedural, or algorithmic art/designs using code.
+* ⭐️ __[TouchDesigner](https://derivative.ca/)__
+* [Max/MSP/Jitter](https://cycling74.com/products/max/)
+* [vvvv](https://vvvv.org/)
 
-- [Making Generative Art with Simple Mathematics](http://www.hailpixel.com/articles/generative-art-simple-mathematics)
-- [https://medium.com/@zachlieberman/daily-sketches-in-2017-1b4234b0615d](https://medium.com/@zachlieberman/daily-sketches-in-2017-1b4234b0615d)
-- [Mike Bostock: Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) (with [Eyeo talk](https://vimeo.com/112319901))
-- [Generative Examples in Processing](https://github.com/digitalcoleman/generativeExamples)
-- [Book of Shaders: Generative Designs](https://thebookofshaders.com/10/)
-- [Programming Design Systems](https://programmingdesignsystems.com/)
-- [Generative Music](https://teropa.info/loop/#/title)
-- [Procedural Content Generation in Games](http://pcgbook.com/)
+#### Audio
 
-### People
+* ⭐️ __[tone.js](https://tonejs.github.io/)__
+* [Pure Data](https://puredata.info/)
+* [Overtone](https://overtone.github.io/)
+* [ChucK](http://chuck.cs.princeton.edu/)
+* [Sonic Pi](https://sonic-pi.net/))
+
+#### WebGL
+
+> For a much much more extensive list see [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) 
+
+* ⭐️ __[three.js](https://threejs.org/)__
+* [regl](http://regl.party/)
+* [stack.gl](http://stack.gl/) 
+
+#### Text and NLP
+
+* ⭐️ __[spacy](https://spacy.io/)__
+* [natural](https://github.com/NaturalNode/natural)
+* [Tracery](http://tracery.io/)
+
+<!-- ## Research
+
+### Foundational Papers
+
+- [Learning Deep Generative Models (Salakhutdinov 2015)](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf)
+- [Generative Adversarial Networks (Goodfellow 2015)]
+- [Autoregressive]
+- [Variational Autoencioders (Kingma 2014)]
+- [Flow]()
+- [Diffusion (Sacha)]
+ -->
+
+## Products/Apps
+
+* [Artbreeder](https://www.artbreeder.com/)
+* ⭐️ __[Dream Studio (Stability AI)](https://beta.dreamstudio.ai/)__
+* [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
+* [Runway](https://runwayml.com/) - AI powered video editor.
+* [Facet AI](https://facet.ai/) - AI powered image editor.
+* [Adobe Sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) - AI powered features for the Creative Cloud suite.
+* [Alpaca](https://www.getalpaca.io/)
+* [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos/)
+* [ClipDrop](https://clipdrop.co/) and [cleanup.pictures](https://cleanup.pictures/)
+
+## People
 
 A non-exhaustive list of people doing interesting things at the intersection of art, ML, and design.
 
-- Memo Akten ([website](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
+- [Memo Akten](http://www.memo.tv/works/)
 - [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
 - [Tom White](https://drib.net/)
 - [Hannah Davis](http://www.hannahishere.com/)
@@ -158,7 +209,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 - [Golan Levin](http://www.flong.com/)
 - [Trevor Paglen](https://paglen.studio/)
 
-### Places
+## Places
 
 - [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)
 - [ITP](https://tisch.nyu.edu/itp)
@@ -168,29 +219,16 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 - [Google Artists and Machine Intelligence](https://ami.withgoogle.com/)
 - [Google Creative Lab](https://www.creativelab5.com/)
 - [The Lab at the Google Cultural Institute](https://www.google.com/culturalinstitute/thelab/)
-- Sony CSL: [Tokyo](https://www.sonycsl.co.jp/) and [Paris](https://csl.sony.fr/)
+- Sony CSL ([Tokyo](https://www.sonycsl.co.jp/) and [Paris](https://csl.sony.fr/))
 - [The Brown Institute](https://brown.columbia.edu/)
 - [UCLA Design Media Arts](http://dma.ucla.edu/)
+- [Stability AI (Eleuther, LAION, et al.)](https://stability.ai/)
 
-## LICENSE
+## Related lists and collections
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://jonathanjonathanjonathan.com">Jonathan Dinu</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a></p>
+* [Machine Learning for Art](https://ml4a.net/)
+* [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
 
-### You are free to:
+## Contribute
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
-  for any purpose, even commercially.
-
-_The licensor cannot revoke these freedoms as long as you follow the license terms._
-
-### Under the following terms:
-
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-### Notices:
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
