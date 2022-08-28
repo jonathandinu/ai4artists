@@ -110,11 +110,11 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Text-to-Image
 
-* [VQGAN]()
-* [DALLE]()
-* ⭐️ __[Stable Diffusion]()__
-* [Imagen (Google)](https://imagen.research.google/)
-* [Parti (Google)](https://parti.research.google/)
+* [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)
+* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch)
+* ⭐️ __[Stable Diffusion](https://github.com/CompVis/stable-diffusion)__
+* [Imagen](https://github.com/lucidrains/imagen-pytorch)
+* [Parti)](https://github.com/google-research/parti)
 * [Stable Diffusion Prompt Search](https://lexica.art/)
 
 ### Creative Coding
