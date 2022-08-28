@@ -76,10 +76,10 @@ For a broader resource covering more general creative coding tools (that you mig
 
 #### Deep Learning
 
-* [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance (Crowson and Biderman)](https://arxiv.org/pdf/2204.08583.pdf)
+* ⭐️ __[VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance (Crowson and Biderman)](https://arxiv.org/pdf/2204.08583.pdf)__
 * [Tutorial on Deep Generative Models (IJCAI-ECAI 2018)](https://ermongroup.github.io/generative-models/)
 * [Tutorial on GANs (CVPR 2018)](https://sites.google.com/view/cvpr2018tutorialongans/)
-* ⭐️ __[Lil'Log (Lilian Weng)](https://lilianweng.github.io/)__
+* [Lil'Log (Lilian Weng)](https://lilianweng.github.io/)
 * [Distill (on hiatus)](https://distill.pub/)
 
 #### Generative Art
