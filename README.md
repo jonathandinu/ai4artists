@@ -44,12 +44,12 @@ For a broader resource covering more general creative coding tools (that you mig
 #### Creative Coding and New Media
 
 * ⭐️ __[Deep Learning for Art, Aesthetics, and Creativity (MIT)](https://ali-design.github.io/deepcreativity/)__
+* [Machine Learning for the Web (ITP/NYU)](https://github.com/yining1023/machine-learning-for-the-web)
+* [Art and Machine Learning (CMU)](https://sites.google.com/site/artml2018/lectures)
+* [New Media Installation: Art that Learns (CMU)](https://artthatlearns.wordpress.com/syllabus/)
 * Introduction to Computational Media (ITP/NYU)
   * [Media course](https://github.com/ITPNYU/ICM-2022-Media)
-  * [Code course](https://github.com/ITPNYU/ICM-2022-Code))
-* [Machine Learning for the Web (ITP/NYU)](https://github.com/yining1023/machine-learning-for-the-web)
-* [New Media Installation: Art that Learns (CMU)](https://artthatlearns.wordpress.com/syllabus/)
-* [Art and Machine Learning (CMU)](https://sites.google.com/site/artml2018/lectures)
+  * [Code course](https://github.com/ITPNYU/ICM-2022-Code)
 
 ### Videos
 
@@ -64,8 +64,8 @@ For a broader resource covering more general creative coding tools (that you mig
 * ⭐️ __[Dive into Deep Learning (Zhang, Lipton, Li, and Smola)](https://d2l.ai/index.html)__
 * [Deep Learning (Goodfellow, Bengio, and Courville)](https://www.deeplearningbook.org/)
 * [Computer Vision: Algorithms and Applications (Szeliski)](https://szeliski.org/Book/)
-* [Procedural Content Generation in Games](http://pcgbook.com/)
-* [Generative Design](http://www.generative-gestaltung.de/2/)
+* [Procedural Content Generation in Games (Shaker, Togelius, and Nelson)](http://pcgbook.com/)
+* [Generative Design (Benedikt Groß)](http://www.generative-gestaltung.de/2/)
 
 ### Tutorials and Blogs
 
