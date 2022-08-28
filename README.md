@@ -4,7 +4,7 @@
 
 > Resources at the intersection of AI _AND_ Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) or [https://thatcreativecode.page/](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) and [https://github.com/dair-ai](https://github.com/dair-ai).
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) and [https://github.com/dair-ai](https://github.com/dair-ai).
 
 ## Contents
 
@@ -17,7 +17,6 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Products/Apps](#productsapps)
 * [People](#people)
 * [Places](#places)
-* [Contribute](#contribute)
 * [Related Lists](#related-lists-and-collections)
 
 > __bold__ entries signify my favorite resource(s) for that section/subsection (if I _HAD_ to choose a single resource). Additionally each subsection is usually ordered by specificity of content (most general listed first).
@@ -226,6 +225,6 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 * [Machine Learning for Art](https://ml4a.net/)
 * [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
