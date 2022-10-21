@@ -100,6 +100,9 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://prompt-to-prompt.github.io): Edit Stable Diffusion outputs by editing the original prompt.
 * [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://textual-inversion.github.io): Similar to prompt-to-prompt but instead takes an input image and a text description.  Kinda like Style Transfer... but with Stable diffusion.
 * [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io): Similar to Textual Inversion but instead focused on manipulating subject based images (i.e. _this thing/person/etc._ but *underwater*).
+* [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io)
+* [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352)
+* [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://makeavideo.studio)
 
 ## Tools
 
