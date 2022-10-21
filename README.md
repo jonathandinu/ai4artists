@@ -104,6 +104,9 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628)
 * [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352)
 * [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://makeavideo.studio)
+* [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276)
+* [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+* [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
 
 ## Tools
 
