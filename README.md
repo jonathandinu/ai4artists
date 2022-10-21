@@ -19,6 +19,7 @@ For a broader resource covering more general creative coding tools (that you mig
   * [Deep Learning](#deep-learning-frameworks)
   * [text-to-image](#text-to-image)
   * [Creative Coding](#creative-coding)
+  * [Stable Diffusion](#stable-diffusion-sd)
 * [Products/Apps](#productsapps)
 * [Artists](#artists)
 * [Institutions/Places](#institutionsplaces)
