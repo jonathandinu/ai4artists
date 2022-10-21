@@ -134,13 +134,13 @@ For a broader resource covering more general creative coding tools (that you mig
 ### Stable Diffusion (SD)
 
 * [Dream Studio](https://beta.dreamstudio.ai/): Official [Stability AI](https://stability.ai) cloud hosted service.
-* ⭐️ __[Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)__: One click install for Stable Diffusion on a local machine with a user friendly UI.
+* ⭐️ __[Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)__: One click install for SD on a local machine with a user friendly UI.
 * [AI render (Blender)](https://airender.gumroad.com/l/ai-render): Render scenes in Blender using a text prompt.
 * [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures): Plugin to render textures, reference images, and background with SD.
 * [lexica.art](https://lexica.art/) - SD Prompt Search. 
-* [koi (Krita)](https://github.com/nousr/koi): Stable Diffusion plugin for [Krita](https://krita.org/en/) for img2img generation.
+* [koi (Krita)](https://github.com/nousr/koi): SD plugin for [Krita](https://krita.org/en/) for img2img generation.
 * [Alpaca (Photoshop)](https://www.getalpaca.io/): Photoshop plugin (beta).
-* [Christian Cantrell's Photoshop Plugin](https://exchange.adobe.com/apps/cc/114117da/stable-diffusion): Another Photoshop plugin.
+* [Christian Cantrell's Plugin (Photoshop)](https://exchange.adobe.com/apps/cc/114117da/stable-diffusion): Another Photoshop plugin.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio): Animation focused frontend for SD.
 
 
