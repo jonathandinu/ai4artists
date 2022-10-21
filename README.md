@@ -13,6 +13,7 @@ For a broader resource covering more general creative coding tools (that you mig
   * [Videos](#videos)
   * [Books](#books)
   * [Tutorials and Blogs](#tutorials-and-blogs)
+  * [Papers](#papers)
 * [Tools](#tools)
   * [Creative ML](#creative-ml)
   * [Deep Learning](#deep-learning-frameworks)
@@ -45,6 +46,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Differentiable Inference and Generative Models (Toronto)](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * ⭐️ __[Learning-Based Image Synthesis (CMU)](https://learning-image-synthesis.github.io/sp22/)__
 * [Learning Discrete Latent Structure (Toronto)](https://duvenaud.github.io/learn-discrete/)
+* [From Deep Learning Foundations to Stable Diffusion (fast.ai)](https://www.fast.ai/posts/part2-2022.html)
 
 #### Creative Coding and New Media
 
@@ -90,6 +92,14 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Generative Examples in Processing](https://github.com/digitalcoleman/generativeExamples)
 * [Generative Music](https://teropa.info/loop/#/title)
 
+### Papers
+
+* [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073): Paper predating Stable Diffusion describing a method for image synthesis and editing with diffusion based models.
+* [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html): Original paper that introduced Stable Diffusion and started it all.
+* [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://prompt-to-prompt.github.io): Edit Stable Diffusion outputs by editing the original prompt.
+* [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://textual-inversion.github.io): Similar to prompt-to-prompt but instead takes an input image and a text description.  Kinda like Style Transfer... but with Stable diffusion.
+* [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io): Similar to Textual Inversion but instead focused on manipulating subject based images (i.e. _this thing/person/etc._ but *underwater*).
+
 ## Tools
 
 ### Creative ML
@@ -119,6 +129,19 @@ For a broader resource covering more general creative coding tools (that you mig
 * [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch)
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)
 * [Parti](https://github.com/google-research/parti)
+
+### Stable Diffusion (SD)
+
+* [Dream Studio](https://beta.dreamstudio.ai/): Official [Stability AI](https://stability.ai) cloud hosted service.
+* ⭐️ __[Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)__: One click install for Stable Diffusion on a local machine with a user friendly UI.
+* [AI render (Blender)](https://airender.gumroad.com/l/ai-render): Render scenes in Blender using a text prompt.
+* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures): Plugin to render textures, reference images, and background with SD.
+* [lexica.art](https://lexica.art/) - SD Prompt Search. 
+* [koi (Krita)](https://github.com/nousr/koi): Stable Diffusion plugin for [Krita](https://krita.org/en/) for img2img generation.
+* [Alpaca (Photoshop)](https://www.getalpaca.io/): Photoshop plugin (beta).
+* [Christian Cantrell's Photoshop Plugin](https://exchange.adobe.com/apps/cc/114117da/stable-diffusion): Another Photoshop plugin.
+* [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio): Animation focused frontend for SD.
+
 
 ### Creative Coding
 
@@ -175,13 +198,10 @@ For a broader resource covering more general creative coding tools (that you mig
 ## Products/Apps
 
 * [Artbreeder](https://www.artbreeder.com/)
-* ⭐️ __[Dream Studio (Stability AI)](https://beta.dreamstudio.ai/)__
-* [lexica.art](https://lexica.art/) - Stable Diffusion Prompt Search. 
 * [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
 * [Runway](https://runwayml.com/) - AI powered video editor.
 * [Facet AI](https://facet.ai/) - AI powered image editor.
 * [Adobe Sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) - AI powered features for the Creative Cloud suite.
-* [Alpaca](https://www.getalpaca.io/)
 * [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos/)
 * [ClipDrop](https://clipdrop.co/) and [cleanup.pictures](https://cleanup.pictures/)
 
