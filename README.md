@@ -206,6 +206,7 @@ For a broader resource covering more general creative coding tools (that you mig
 ## Products/Apps
 
 * [Artbreeder](https://www.artbreeder.com/)
+* [Midjourney](https://www.midjourney.com/)
 * [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
 * [Runway](https://runwayml.com/) - AI powered video editor.
 * [Facet AI](https://facet.ai/) - AI powered image editor.
