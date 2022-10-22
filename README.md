@@ -141,7 +141,7 @@ For a broader resource covering more general creative coding tools (that you mig
 ### Stable Diffusion (SD)
 
 * [Dream Studio](https://beta.dreamstudio.ai/): Official [Stability AI](https://stability.ai) cloud hosted service.
-* ⭐️ __[Stable Diffusion Web UI]([https://github.com/cmdr2/stable-diffusion-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui))__: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) to make common workflows easy.
+* ⭐️ __[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)__: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) to make common workflows easy.
 * [AI render (Blender)](https://airender.gumroad.com/l/ai-render): Render scenes in Blender using a text prompt.
 * [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures): Plugin to render textures, reference images, and background with SD.
 * [lexica.art](https://lexica.art/) - SD Prompt Search. 
