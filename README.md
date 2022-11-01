@@ -149,7 +149,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Alpaca (Photoshop)](https://www.getalpaca.io/): Photoshop plugin (beta).
 * [Christian Cantrell's Plugin (Photoshop)](https://exchange.adobe.com/apps/cc/114117da/stable-diffusion): Another Photoshop plugin.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio): Animation focused frontend for SD.
-
+* [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 
 ### Creative Coding
 
