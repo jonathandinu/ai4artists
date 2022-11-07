@@ -20,6 +20,7 @@ For a broader resource covering more general creative coding tools (that you mig
   * [text-to-image](#text-to-image)
   * [Creative Coding](#creative-coding)
   * [Stable Diffusion](#stable-diffusion-sd)
+* [Datasets](#datasets)
 * [Products/Apps](#productsapps)
 * [Artists](#artists)
 * [Institutions/Places](#institutionsplaces)
@@ -202,6 +203,17 @@ For a broader resource covering more general creative coding tools (that you mig
 - [Flow]()
 - [Diffusion (Sacha)]
  -->
+
+## Datasets
+
+### Faces
+
+* [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
+* [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+* [LFWA+](https://liuziwei7.github.io/projects/FaceAttributes.html)
+* [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ)
+* [CelebA-Spoof](https://github.com/ZhangYuanhan-AI/CelebA-Spoof)
+* [UTKFace](https://susanqq.github.io/UTKFace/)
 
 ## Products/Apps
 
