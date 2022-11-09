@@ -96,6 +96,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Papers
 
+#### text-to-image
+
 * [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073): Paper predating Stable Diffusion describing a method for image synthesis and editing with diffusion based models.
 * [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html): Original paper that introduced Stable Diffusion and started it all.
 * [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://prompt-to-prompt.github.io): Edit Stable Diffusion outputs by editing the original prompt.
@@ -108,6 +110,25 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276)
 * [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
+
+#### Neural Radiance fields (NeRF)
+
+* [Structure-from-Motion Revisited](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)
+* [Pixelwise View Selection for Unstructured
+Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf)
+* [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103)
+* [Deferred Neural Rendering: Image Synthesis using Neural Textures](https://arxiv.org/abs/1904.12356)
+* [Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751)
+* ⭐️ __[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)__: The paper that started it all...
+* [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/abs/2103.13415)
+* [Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751)
+* [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io)
+* [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://hanhung.github.io/PureCLIPNeRF/)
+* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+* [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641)
+* [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io)
+* [Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io)
+* [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://www.cs.cmu.edu/~dsnerf/)
 
 ## Tools
 
@@ -151,6 +172,13 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Christian Cantrell's Plugin (Photoshop)](https://exchange.adobe.com/apps/cc/114117da/stable-diffusion): Another Photoshop plugin.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio): Animation focused frontend for SD.
 * [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
+
+# Neural Radiance Fields
+
+* [COLMAP](https://colmap.github.io/index.html)
+* ⭐️ __[nerfstudio](https://docs.nerf.studio/en/latest/index.html)__
+* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
+* [NerfAcc](https://www.nerfacc.com/en/latest/index.html)
 
 ### Creative Coding
 
