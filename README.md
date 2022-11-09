@@ -172,7 +172,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio): Animation focused frontend for SD.
 * [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 
-# Neural Radiance Fields
+### Neural Radiance Fields
 
 * [COLMAP](https://colmap.github.io/index.html)
 * ⭐️ __[nerfstudio](https://docs.nerf.studio/en/latest/index.html)__
