@@ -113,22 +113,21 @@ For a broader resource covering more general creative coding tools (that you mig
 
 #### Neural Radiance fields (NeRF)
 
-* [Structure-from-Motion Revisited](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)
+* [Structure-from-Motion Revisited](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf): prior work on sparse modeling (still needed/useful for NeRF)
 * [Pixelwise View Selection for Unstructured
-Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf)
+Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work on dense modeling (NeRF kinda replaces this)
 * [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103)
 * [Deferred Neural Rendering: Image Synthesis using Neural Textures](https://arxiv.org/abs/1904.12356)
 * [Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751)
 * ⭐️ __[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)__: The paper that started it all...
-* [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/abs/2103.13415)
-* [Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751)
-* [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io)
-* [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://hanhung.github.io/PureCLIPNeRF/)
-* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
-* [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641)
-* [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io)
-* [Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io)
-* [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://www.cs.cmu.edu/~dsnerf/)
+* [Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io): NeRF in the wild (alternative to MVS)
+* [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io): Photorealistic NeRF from casual in-the-wild photos and videos (like from a cellphone)
+* [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/abs/2103.13415): NeRF... but BETTER FASTER HARDER STRONGER
+* [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://www.cs.cmu.edu/~dsnerf/): Train NeRF models faster with fewer images by leveraging depth information
+* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/): caching for NeRF training to make it rlllly FAST
+* [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://hanhung.github.io/PureCLIPNeRF/): text-to-3D using CLIP
+* [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641): NeRF for robots (and cars)
+* [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io): pretrained NeRF
 
 ## Tools
 
