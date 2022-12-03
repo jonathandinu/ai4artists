@@ -253,6 +253,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Adobe Sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) - AI powered features for the Creative Cloud suite.
 * [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos/)
 * [ClipDrop](https://clipdrop.co/) and [cleanup.pictures](https://cleanup.pictures/)
+* [Artistic.wtf](https://www.artistic.wtf/)
 
 ## Artists
 
