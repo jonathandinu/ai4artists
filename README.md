@@ -129,6 +129,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields](https://arxiv.org/abs/2210.13641): NeRF for robots (and cars)
 * [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io): pretrained NeRF
 * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](http://ethanweber.me/sitcoms3D/)
+* [ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis](https://climatenerf.github.io)
 
 ## Tools
 
