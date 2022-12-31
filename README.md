@@ -110,6 +110,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276)
 * [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
+* [Multi-Concept Customization of Text-to-Image Diffusion](https://www.cs.cmu.edu/~custom-diffusion/): Like DreamBooth but capable of synthesizing multiple concepts.
 
 #### Neural Radiance fields (NeRF)
 
