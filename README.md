@@ -13,7 +13,13 @@ For a broader resource covering more general creative coding tools (that you mig
   * [Videos](#videos)
   * [Books](#books)
   * [Tutorials and Blogs](#tutorials-and-blogs)
-  * [Papers](#papers)
+* [Papers/Methods](#papers-methods)
+  * [Diffusion models (and text-to-image)](#diffusion-models-and-text-to-image) 
+  * [Neural Radiance fields (and NeRF like things)](#neural-radiance-fields-and-nerf-like-things)
+  * [Unconditional Image Synthesis](#unconditional-image-synthesis)
+  * [Conditional Image Synthesis (and inverse problems)](#conditional-image-synthesis-and-inverse-problems)
+  * [GAN inversion (and editing)](#gan-inversion-and-editing)
+  * [Latent Space Interpretation](#latent-space-interpretation)
 * [Tools](#tools)
   * [Creative ML](#creative-ml)
   * [Deep Learning](#deep-learning-frameworks)
@@ -138,7 +144,6 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis](https://climatenerf.github.io)
 * [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [Neural Point Catacaustics for Novel-View Synthesis of Reflections](https://arxiv.org/pdf/2301.01087.pdf)
-
 
 ### Unconditional Image Synthesis
 
