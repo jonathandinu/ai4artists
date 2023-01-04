@@ -96,9 +96,10 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Papers/Methods
 
-#### text-to-image
+#### Diffusion models (and text-to-image)
 
 * [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073): Paper predating Stable Diffusion describing a method for image synthesis and editing with diffusion based models.
+* [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf)
 * [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html): Original paper that introduced Stable Diffusion and started it all.
 * [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://prompt-to-prompt.github.io): Edit Stable Diffusion outputs by editing the original prompt.
 * [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://textual-inversion.github.io): Similar to prompt-to-prompt but instead takes an input image and a text description.  Kinda like Style Transfer... but with Stable diffusion.
@@ -112,6 +113,9 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
 * [Multi-Concept Customization of Text-to-Image Diffusion](https://www.cs.cmu.edu/~custom-diffusion/): Like DreamBooth but capable of synthesizing multiple concepts.
 * [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://deepimagination.cc/eDiff-I/)
+* [Elucidating the Design Space of Diffusion-Based Generative Models (EDM)](https://github.com/NVlabs/edm)
+* [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](https://nvlabs.github.io/denoising-diffusion-gan/)
+* [Imagen Video: High Definition Video Generation with Diffusion Models](https://imagen.research.google/video/)
 
 #### Neural Radiance fields (and NeRF like things)
 
@@ -139,11 +143,24 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 ### Unconditional Image Synthesis
 
 * [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468.pdf)
+* [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
+* [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/abs/1812.04948)
+* [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)](https://arxiv.org/abs/1912.04958)
+* [Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA)](https://github.com/NVlabs/stylegan2-ada-pytorch)
+* [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://github.com/NVlabs/stylegan3)
+* [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/pdf/1906.00446.pdf)
+* [Taming Transformers for High-Resolution Image Synthesis (VQGAN)](https://compvis.github.io/taming-transformers/)
+* [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf)
+* [StyleNAT: Giving Each Head a New Perspective](https://arxiv.org/pdf/2211.05770v1.pdf)
 * [StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets](https://sites.google.com/view/stylegan-xl/?pli=1)
 
 ### Conditional Image Synthesis (and inverse problems)
 
-* [SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects](https://arxiv.org/pdf/2004.04977v2.pdf)
+* [Image-to-Image Translation with Conditional Adversarial Nets (pix2pix)](https://phillipi.github.io/pix2pix/)
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://junyanz.github.io/CycleGAN/)
+* [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (pix2pixHD)](https://tcwang0509.github.io/pix2pixHD/)
+* [Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects (SESAME)](https://arxiv.org/pdf/2004.04977v2.pdf)
 * [Semantic Image Synthesis with Spatially-Adaptive Normalization (SPADE)](https://github.com/NVlabs/SPADE)
 * [You Only Need Adversarial Supervision for Semantic Image Synthesis (OASIS)](https://arxiv.org/pdf/2012.04781v3.pdf)
 * [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://eladrich.github.io/pixel2style2pixel/)
@@ -154,15 +171,29 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation](https://arxiv.org/pdf/2211.07609v1.pdf)
 * [MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation](https://github.com/lhoyer/MIC)
 * [Pretraining is All You Need for Image-to-Image Translation (PITI)](https://tengfei-wang.github.io/PITI/index.html)
-* 
-### GAN inversion
 
+### GAN inversion (and editing)
+
+* [Generative Visual Manipulation on the Natural Image Manifold (iGAN)](https://www.cs.cmu.edu/~junyanz/projects/gvm/)
+* [In-Domain GAN Inversion for Real Image Editing](https://genforce.github.io/idinvert/)
 * [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](https://arxiv.org/pdf/1904.03189.pdf)
 * [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing)
 * [Pivotal Tuning for Latent-based Editing of Real Images](https://github.com/danielroich/PTI)
 * [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
 * [High-Fidelity GAN Inversion for Image Attribute Editing](https://tengfei-wang.github.io/HFGI/)
+* [Swapping Autoencoder for Deep Image Manipulation](https://taesung.me/SwappingAutoencoder/)
+* [Sketch Your Own GAN](https://peterwang512.github.io/GANSketching/)
+* [Rewriting Geometric Rules of a GAN](https://peterwang512.github.io/GANWarping/)
+* [Anycost GANs for Interactive Image Synthesis and Editing](https://hanlab.mit.edu/projects/anycost-gan/)
 * [Third Time’s the Charm? Image and Video Editing with StyleGAN3](https://yuval-alaluf.github.io/stylegan3-editing/)
+
+### Latent Space Interpretation
+
+* [Discovering Interpretable GAN Controls (GANspace)](https://github.com/harskish/ganspace)
+* [Interpreting the Latent Space of GANs for Semantic Face Editing](https://genforce.github.io/interfacegan/)
+* [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://gandissect.csail.mit.edu)
+* [Unsupervised Extraction of StyleGAN Edit Directions (CLIP2StyleGAN)](https://github.com/RameenAbdal/CLIP2StyleGAN)
+* [Seeing What a GAN Cannot Generate](http://ganseeing.csail.mit.edu)
 
 ## Tools
 
@@ -170,6 +201,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 * [NVIDIA Imaginaire](https://github.com/NVlabs/imaginaire)
 * [mmgeneration](https://github.com/open-mmlab/mmgeneration)
+* [Modelverse](https://modelverse.cs.cmu.edu): Content-Based Search for Deep Generative Models
 
 ### Creative ML
 
