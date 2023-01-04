@@ -94,7 +94,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Generative Examples in Processing](https://github.com/digitalcoleman/generativeExamples)
 * [Generative Music](https://teropa.info/loop/#/title)
 
-### Papers
+### Papers/Methods
 
 #### text-to-image
 
@@ -111,8 +111,9 @@ For a broader resource covering more general creative coding tools (that you mig
 * [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
 * [Multi-Concept Customization of Text-to-Image Diffusion](https://www.cs.cmu.edu/~custom-diffusion/): Like DreamBooth but capable of synthesizing multiple concepts.
+* [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://deepimagination.cc/eDiff-I/)
 
-#### Neural Radiance fields (NeRF)
+#### Neural Radiance fields (and NeRF like things)
 
 * [Structure-from-Motion Revisited](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf): prior work on sparse modeling (still needed/useful for NeRF)
 * [Pixelwise View Selection for Unstructured
@@ -131,8 +132,44 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [nerf2nerf: Pairwise Registration of Neural Radiance Fields](https://nerf2nerf.github.io): pretrained NeRF
 * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](http://ethanweber.me/sitcoms3D/)
 * [ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis](https://climatenerf.github.io)
+* [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
+* [Neural Point Catacaustics for Novel-View Synthesis of Reflections](https://arxiv.org/pdf/2301.01087.pdf)
+
+
+### Unconditional Image Synthesis
+
+* [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468.pdf)
+* [StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets](https://sites.google.com/view/stylegan-xl/?pli=1)
+
+### Conditional Image Synthesis (and inverse problems)
+
+* [SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects](https://arxiv.org/pdf/2004.04977v2.pdf)
+* [Semantic Image Synthesis with Spatially-Adaptive Normalization (SPADE)](https://github.com/NVlabs/SPADE)
+* [You Only Need Adversarial Supervision for Semantic Image Synthesis (OASIS)](https://arxiv.org/pdf/2012.04781v3.pdf)
+* [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://eladrich.github.io/pixel2style2pixel/)
+* [Multimodal Conditional Image Synthesis with Product-of-Experts GANs](https://deepimagination.cc/PoE-GAN/)
+* [Palette: Image-to-Image Diffusion Models](https://diffusion-palette.github.io)
+* [Sketch-Guided Text-to-Image Diffusion Models](https://sketch-guided-diffusion.github.io)
+* [HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation](https://github.com/lhoyer/HRDA)
+* [PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation](https://arxiv.org/pdf/2211.07609v1.pdf)
+* [MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation](https://github.com/lhoyer/MIC)
+* [Pretraining is All You Need for Image-to-Image Translation (PITI)](https://tengfei-wang.github.io/PITI/index.html)
+* 
+### GAN inversion
+
+* [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](https://arxiv.org/pdf/1904.03189.pdf)
+* [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing)
+* [Pivotal Tuning for Latent-based Editing of Real Images](https://github.com/danielroich/PTI)
+* [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
+* [High-Fidelity GAN Inversion for Image Attribute Editing](https://tengfei-wang.github.io/HFGI/)
+* [Third Time’s the Charm? Image and Video Editing with StyleGAN3](https://yuval-alaluf.github.io/stylegan3-editing/)
 
 ## Tools
+
+### Generative Modeling
+
+* [NVIDIA Imaginaire](https://github.com/NVlabs/imaginaire)
+* [mmgeneration](https://github.com/open-mmlab/mmgeneration)
 
 ### Creative ML
 
@@ -161,6 +198,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch)
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)
 * [Parti](https://github.com/google-research/parti)
+* [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io): More efficient than diffusion or autoregressive text-to-image models used masked image modeling w/ transformers
 
 ### Stable Diffusion (SD)
 
@@ -236,7 +274,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ## Datasets
 
-### Faces
+### Faces/People
 
 * [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
@@ -244,6 +282,11 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ)
 * [CelebA-Spoof](https://github.com/ZhangYuanhan-AI/CelebA-Spoof)
 * [UTKFace](https://susanqq.github.io/UTKFace/)
+* [SSHQ](https://stylegan-human.github.io/data.html): full body 1024 x 512px
+
+### Video
+
+* [Brutus Light Field](https://github.com/nathan-fairchild/Brutus-Light-Fields)
 
 ## Products/Apps
 
