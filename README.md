@@ -311,6 +311,11 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ## Datasets
 
+* [LAION Datasets](https://github.com/LAION-AI/laion-datasets): Various very large scale image-text pairs datasets (notably used to train the open source [Stable Diffusion](https://stability.ai) models)
+* [Unsplash Images](https://unsplash.com/data)
+* [Open Images](https://storage.googleapis.com/openimages/web/index.html): Open Images is a dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives:
+* [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets): 17,127 validated hours of transcribed speech covering 104 languages. Additionally many of the recorded hours in the dataset also include demographic metadata like age, sex, and accent that can help improve the accuracy of speech recognition engines.
+
 ### Faces/People
 
 * [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
