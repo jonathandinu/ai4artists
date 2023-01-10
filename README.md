@@ -23,6 +23,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Tools](#tools)
   * [Creative ML](#creative-ml)
   * [Deep Learning](#deep-learning-frameworks)
+  * [Runtimes/Deployment](#runtimes-deployment)
   * [text-to-image](#text-to-image)
   * [Creative Coding](#creative-coding)
   * [Stable Diffusion](#stable-diffusion-sd)
@@ -227,6 +228,16 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [JAX](https://github.com/google/jax)
 * [dlib](http://dlib.net/)
 * [Darknet](https://pjreddie.com/darknet/)
+
+### Runtimes/Deployment
+
+* [ONNX Runtime](https://onnxruntime.ai)
+* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed)
+* [TensorRT](https://developer.nvidia.com/tensorrt)
+* [Tensorflow Lite](https://www.tensorflow.org/lite)
+* [TorchScript](https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html)
+* [TorchServe](https://pytorch.org/serve/)
+* [AITemplate](https://github.com/facebookincubator/AITemplate)
 
 ### Text-to-Image
 
