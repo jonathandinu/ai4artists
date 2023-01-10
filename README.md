@@ -211,8 +211,8 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Privacy-Preserving Portrait Matting](https://arxiv.org/pdf/2104.14222v2.pdf)
 * [Deep Automatic Natural Image Matting](https://arxiv.org/pdf/2107.07235v1.pdf)
 * [MatteFormer](https://github.com/webtoon/matteformer)
-* ⭐️ __[MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition](https://github.com/ZHKKKe/MODNet)__
-* [Robust Human Matting via Semantic Guidance](https://arxiv.org/pdf/2210.05210v1.pdf)
+* [MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition](https://github.com/ZHKKKe/MODNet)
+* ⭐️ __[Robust Human Matting via Semantic Guidance](https://arxiv.org/pdf/2210.05210v1.pdf)__
 
 ## Tools
 
