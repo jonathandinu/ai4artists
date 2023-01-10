@@ -23,7 +23,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Tools](#tools)
   * [Creative ML](#creative-ml)
   * [Deep Learning](#deep-learning-frameworks)
-  * [Runtimes/Deployment](#runtimes-deployment)
+  * [Runtimes/Deployment](#runtimesdeployment)
   * [text-to-image](#text-to-image)
   * [Creative Coding](#creative-coding)
   * [Stable Diffusion](#stable-diffusion-sd)
