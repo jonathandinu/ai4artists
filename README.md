@@ -231,6 +231,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ### Runtimes/Deployment
 
+* [FFCV: an Optimized Data Pipeline for Accelerating ML Training](https://ffcv.io)
 * [ONNX Runtime](https://onnxruntime.ai)
 * [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed)
 * [TensorRT](https://developer.nvidia.com/tensorrt)
