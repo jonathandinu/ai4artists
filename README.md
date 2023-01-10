@@ -20,6 +20,7 @@ For a broader resource covering more general creative coding tools (that you mig
   * [Conditional Image Synthesis (and inverse problems)](#conditional-image-synthesis-and-inverse-problems)
   * [GAN inversion (and editing)](#gan-inversion-and-editing)
   * [Latent Space Interpretation](#latent-space-interpretation)
+  * [Image Matting](#image-matting)
 * [Tools](#tools)
   * [Creative ML](#creative-ml)
   * [Deep Learning](#deep-learning-frameworks)
@@ -152,7 +153,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
 * [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/abs/1812.04948)
-* [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)](https://arxiv.org/abs/1912.04958)
+* ⭐️ __[Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)](https://arxiv.org/abs/1912.04958)__
 * [Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA)](https://github.com/NVlabs/stylegan2-ada-pytorch)
 * [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://github.com/NVlabs/stylegan3)
 * [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/pdf/1906.00446.pdf)
@@ -185,7 +186,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](https://arxiv.org/pdf/1904.03189.pdf)
 * [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing)
 * [Pivotal Tuning for Latent-based Editing of Real Images](https://github.com/danielroich/PTI)
-* [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
+* ⭐️ __[HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)__
 * [High-Fidelity GAN Inversion for Image Attribute Editing](https://tengfei-wang.github.io/HFGI/)
 * [Swapping Autoencoder for Deep Image Manipulation](https://taesung.me/SwappingAutoencoder/)
 * [Sketch Your Own GAN](https://peterwang512.github.io/GANSketching/)
@@ -195,11 +196,23 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ### Latent Space Interpretation
 
-* [Discovering Interpretable GAN Controls (GANspace)](https://github.com/harskish/ganspace)
+* ⭐️ __[Discovering Interpretable GAN Controls (GANspace)](https://github.com/harskish/ganspace)__
 * [Interpreting the Latent Space of GANs for Semantic Face Editing](https://genforce.github.io/interfacegan/)
 * [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://gandissect.csail.mit.edu)
 * [Unsupervised Extraction of StyleGAN Edit Directions (CLIP2StyleGAN)](https://github.com/RameenAbdal/CLIP2StyleGAN)
 * [Seeing What a GAN Cannot Generate](http://ganseeing.csail.mit.edu)
+
+### Image Matting
+
+* [Deep Image Matting](https://arxiv.org/pdf/1703.03872v3.pdf)
+* [Background Matting: The World is Your Green Screen](https://arxiv.org/pdf/2004.00626v2.pdf)
+* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting)
+* [Semantic Image Matting](https://arxiv.org/pdf/2104.08201v1.pdf)
+* [Privacy-Preserving Portrait Matting](https://arxiv.org/pdf/2104.14222v2.pdf)
+* [Deep Automatic Natural Image Matting](https://arxiv.org/pdf/2107.07235v1.pdf)
+* [MatteFormer](https://github.com/webtoon/matteformer)
+* ⭐️ __[MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition](https://github.com/ZHKKKe/MODNet)__
+* [Robust Human Matting via Semantic Guidance](https://arxiv.org/pdf/2210.05210v1.pdf)
 
 ## Tools
 
