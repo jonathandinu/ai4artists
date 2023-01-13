@@ -241,6 +241,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/): The platform for creating and operating metaverse applications
 * [mmgeneration](https://github.com/open-mmlab/mmgeneration)
 * [Modelverse](https://modelverse.cs.cmu.edu): Content-Based Search for Deep Generative Models
+* [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)
 
 ### Creative ML
 
