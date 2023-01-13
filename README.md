@@ -112,7 +112,6 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://prompt-to-prompt.github.io): Edit Stable Diffusion outputs by editing the original prompt.
 * [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://textual-inversion.github.io): Similar to prompt-to-prompt but instead takes an input image and a text description.  Kinda like Style Transfer... but with Stable diffusion.
 * [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io): Similar to Textual Inversion but instead focused on manipulating subject based images (i.e. _this thing/person/etc._ but *underwater*).
-* [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io)
 * [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628)
 * [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352)
 * [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://makeavideo.studio)
@@ -146,6 +145,24 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis](https://climatenerf.github.io)
 * [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [Neural Point Catacaustics for Novel-View Synthesis of Reflections](https://arxiv.org/pdf/2301.01087.pdf)
+* [3D Moments from Near-Duplicate Photos](https://3d-moments.github.io)
+* [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/pdf/2212.03267.pdf)
+
+### 3D and point clouds
+
+* [DreamFusion: Text-to-3D using 2D Diffusion (Google)](https://dreamfusion3d.github.io)
+* [ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding (Salesforce)](https://tycho-xue.github.io/ULIP/)
+* [Extracting Triangular 3D Models, Materials, and Lighting From Images (NVIDIA)](https://nvlabs.github.io/nvdiffrec/)
+* [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images (NVIDIA)](https://nv-tlabs.github.io/GET3D/)
+* [3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/)
+* [🎠 MagicPony: Learning Articulated 3D Animals in the Wild](https://3dmagicpony.github.io)
+* [ObjectStitch: Generative Object Compositing (Adobe)](https://arxiv.org/pdf/2212.00932.pdf)
+* [LADIS: Language Disentanglement for 3D Shape Editing (Snap)](https://arxiv.org/pdf/2212.05011.pdf)
+* [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion (Microsoft)](https://3d-avatar-diffusion.microsoft.com)
+* [SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation (Snap)](https://yccyenchicheng.github.io/SDFusion/)
+* [DiffRF: Rendering-guided 3D Radiance Field Diffusion (Meta)](https://sirwyver.github.io/DiffRF/)
+* [Novel View Synthesis with Diffusion Models (Google)](https://3d-diffusion.github.io)
+* ⭐️ __[Magic3D: High-Resolution Text-to-3D Content Creation (NVIDIA)](https://deepimagination.cc/Magic3D/)__
 
 ### Unconditional Image Synthesis
 
@@ -218,7 +235,8 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ### Generative Modeling
 
-* [NVIDIA Imaginaire](https://github.com/NVlabs/imaginaire)
+* [NVIDIA Imaginaire](https://github.com/NVlabs/imaginaire): 2D Image synthesis library
+* [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/): The platform for creating and operating metaverse applications
 * [mmgeneration](https://github.com/open-mmlab/mmgeneration)
 * [Modelverse](https://modelverse.cs.cmu.edu): Content-Based Search for Deep Generative Models
 
