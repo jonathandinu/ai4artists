@@ -16,6 +16,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Papers/Methods](#papers-methods)
   * [Diffusion models (and text-to-image)](#diffusion-models-and-text-to-image) 
   * [Neural Radiance fields (and NeRF like things)](#neural-radiance-fields-and-nerf-like-things)
+  * [3D and point clouds](#3d-and-point-clouds)
   * [Unconditional Image Synthesis](#unconditional-image-synthesis)
   * [Conditional Image Synthesis (and inverse problems)](#conditional-image-synthesis-and-inverse-problems)
   * [GAN inversion (and editing)](#gan-inversion-and-editing)
