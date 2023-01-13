@@ -205,6 +205,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing)
 * [Pivotal Tuning for Latent-based Editing of Real Images](https://github.com/danielroich/PTI)
 * ⭐️ __[HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)__
+* [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP)
 * [High-Fidelity GAN Inversion for Image Attribute Editing](https://tengfei-wang.github.io/HFGI/)
 * [Swapping Autoencoder for Deep Image Manipulation](https://taesung.me/SwappingAutoencoder/)
 * [Sketch Your Own GAN](https://peterwang512.github.io/GANSketching/)
