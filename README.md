@@ -1,5 +1,3 @@
-# Awesome AI Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 [![simple neural net art diagram](images/simple-neural-net-art-diagram.png)](https://teia.art/objkt/538875)
 
 > Resources at the intersection of AI _AND_ Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
