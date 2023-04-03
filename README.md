@@ -287,6 +287,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * ⭐️ __[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)__: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) to make common workflows easy.
 * [AI render (Blender)](https://airender.gumroad.com/l/ai-render): Render scenes in Blender using a text prompt.
 * [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures): Plugin to render textures, reference images, and background with SD.
+* [Phraser](https://phraser.tech/) - the collaborative creative AI tool
 * [lexica.art](https://lexica.art/) - SD Prompt Search. 
 * [koi (Krita)](https://github.com/nousr/koi): SD plugin for [Krita](https://krita.org/en/) for img2img generation.
 * [Alpaca (Photoshop)](https://www.getalpaca.io/): Photoshop plugin (beta).
