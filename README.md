@@ -357,7 +357,8 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ### Permissively Licensed/Open Access
 
-* [LAION Datasets](https://github.com/LAION-AI/laion-datasets): Various very large scale image-text pairs datasets (notably used to train the open source [Stable Diffusion](https://stability.ai) models)
+* [LAION Datasets](https://github.com/LAION-AI/laion-datasets): Various very large scale image-text pairs datasets (notably used to train the open source [Stable Diffusion](https://stability.ai) models).
+ * [LAION-Face](https://github.com/FacePerceiver/LAION-Face)  
 * [Unsplash Images](https://unsplash.com/data)
 * [Pixabay](https://pixabay.com/service/about/api/)
 * [Pexels](https://www.pexels.com/api/)
@@ -377,12 +378,16 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Art Institute of Chicago Open Access](https://www.artic.edu/open-access/open-access-images)
 * [NY Public Library Public Domain Collections](https://www.nypl.org/research/collections/digital-collections/public-domain)
 * [Museum für Kunst und Gewerbe Hamburg Steintorplatz](https://sammlungonline.mkg-hamburg.de/en/search?s=*&h=0&sort=scoreDesc&f[]=imageLicence%3AOhne%20Einschr%C3%A4nkung%20nutzbar%20(Public%20Domain))
-* [LAION-Face](https://github.com/FacePerceiver/LAION-Face)
 * [FairFace](https://huggingface.co/datasets/HuggingFaceM4/FairFace)
 * [Conceptual Captions](https://ai.google.com/research/ConceptualCaptions/download)
 * [Quick, Draw!](https://quickdraw.withgoogle.com/data/)
-* [OpenImages](https://storage.googleapis.com/openimages/web/download_v7.html)
-
+* [Open Images](https://storage.googleapis.com/openimages/web/download_v7.html)
+* [Visual Question Answering](https://visualqa.org/download.html)
+* [TensorFlow Flowers](https://www.tensorflow.org/datasets/catalog/tf_flowers)
+* [Stanford Online Products dataset](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16?tab=readme-ov-file#stanford-online-products-dataset)
+* [DeepMind 3d Shapes](https://github.com/google-deepmind/3d-shapes/tree/master)
+* [PASS](https://www.robots.ox.ac.uk/~vgg/data/pass/): An ImageNet replacement for self-supervised pretraining without humans which can be used for high-quality pretraining while significantly reducing privacy concerns.
+  
 ### Faces/People (restricted licenses)
 
 * [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
