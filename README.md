@@ -355,12 +355,35 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 ## Datasets
 
+### Permissively Licensed/Open Access
+
 * [LAION Datasets](https://github.com/LAION-AI/laion-datasets): Various very large scale image-text pairs datasets (notably used to train the open source [Stable Diffusion](https://stability.ai) models)
 * [Unsplash Images](https://unsplash.com/data)
+* [Pixabay](https://pixabay.com/service/about/api/)
+* [Pexels](https://www.pexels.com/api/)
 * [Open Images](https://storage.googleapis.com/openimages/web/index.html): Open Images is a dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives:
 * [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets): 17,127 validated hours of transcribed speech covering 104 languages. Additionally many of the recorded hours in the dataset also include demographic metadata like age, sex, and accent that can help improve the accuracy of speech recognition engines.
+* [Flickr Commons](https://www.flickr.com/commons): Flickr Commons is a unique collection of historical photography from over 100 cultural institutions from all around the world, all with no known copyright restrictions.
+* [Internet Archive](https://archive.org/): Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page): a collection of 106,323,506 freely usable media files to which anyone can contribute.
+* [Prelinger Archives](https://archive.org/details/prelinger)
+* [Getty Library Open Content Program](https://www.getty.edu/projects/open-content-program/): Making images from Getty’s collections freely available for study, teaching, and enjoyment.
+* [Smithsonian Open Access](https://www.si.edu/openaccess/)
+* [Public Domain Review](https://publicdomainreview.org/sources/): Focused on works now fallen into the public domain, the vast commons of out-of-copyright material that everyone is free to enjoy, share, and build upon without restrictions.
+* [Library of Congress](https://loc.gov/free-to-use)
+* [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
+* [The Met Open Access](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
+* [The National Gallery of Art Open Access](https://www.nga.gov/notices/open-access-policy.html)
+* [Art Institute of Chicago Open Access](https://www.artic.edu/open-access/open-access-images)
+* [NY Public Library Public Domain Collections](https://www.nypl.org/research/collections/digital-collections/public-domain)
+* [Museum für Kunst und Gewerbe Hamburg Steintorplatz](https://sammlungonline.mkg-hamburg.de/en/search?s=*&h=0&sort=scoreDesc&f[]=imageLicence%3AOhne%20Einschr%C3%A4nkung%20nutzbar%20(Public%20Domain))
+* [LAION-Face](https://github.com/FacePerceiver/LAION-Face)
+* [FairFace](https://huggingface.co/datasets/HuggingFaceM4/FairFace)
+* [Conceptual Captions](https://ai.google.com/research/ConceptualCaptions/download)
+* [Quick, Draw!](https://quickdraw.withgoogle.com/data/)
+* [OpenImages](https://storage.googleapis.com/openimages/web/download_v7.html)
 
-### Faces/People
+### Faces/People (restricted licenses)
 
 * [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
@@ -370,7 +393,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [UTKFace](https://susanqq.github.io/UTKFace/)
 * [SSHQ](https://stylegan-human.github.io/data.html): full body 1024 x 512px
 
-### Video
+### Other
 
 * [Brutus Light Field](https://github.com/nathan-fairchild/Brutus-Light-Fields)
 
