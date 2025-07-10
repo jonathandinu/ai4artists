@@ -280,6 +280,8 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)
 * [Parti](https://github.com/google-research/parti)
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io): More efficient than diffusion or autoregressive text-to-image models used masked image modeling w/ transformers
+* [Serplux' Blog Image Generator](https://serplux.com/premium/agent/blog-image-generator): Generate Image using URL or content.
+* 
 
 ### Stable Diffusion (SD)
 
