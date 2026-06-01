@@ -409,6 +409,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
 * [Runway](https://runwayml.com/) - AI powered video editor.
 * [Facet AI](https://facet.ai/) - AI powered image editor.
+* [igly.ai](https://igly.ai) - AI powered image editor for background removal, inpainting, upscaling, and generative fill.
 * [Adobe Sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) - AI powered features for the Creative Cloud suite.
 * [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos/)
 * [ClipDrop](https://clipdrop.co/) and [cleanup.pictures](https://cleanup.pictures/)
