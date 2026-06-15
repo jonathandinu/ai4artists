@@ -412,6 +412,7 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 * [Adobe Sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) - AI powered features for the Creative Cloud suite.
 * [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos/)
 * [ClipDrop](https://clipdrop.co/) and [cleanup.pictures](https://cleanup.pictures/)
+* [Seedream AI Studio](https://seedream4.video/) - AI image generation using ByteDance's Seedream 5.0/4.5/4.0 models with one-click image-to-video animation via Kling 2.1. Free tier available.
 
 ## Artists
 
