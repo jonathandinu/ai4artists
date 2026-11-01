@@ -406,6 +406,8 @@ Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf): prior work 
 
 * [Artbreeder](https://www.artbreeder.com/)
 * [Midjourney](https://www.midjourney.com/)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 * [DALLE 2 (OpenAI)](https://openai.com/dall-e-2/)
 * [Runway](https://runwayml.com/) - AI powered video editor.
 * [Facet AI](https://facet.ai/) - AI powered image editor.
